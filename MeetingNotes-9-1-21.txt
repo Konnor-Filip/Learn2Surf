@@ -38,3 +38,11 @@ Brainstorm:
 --Connect wire and cardboard boxes to demonstrate how a network works. 
 
 **Don't limit ourselves**
+
+-Create lesson plans to use along side technology
+--By creating labs using technology, we can teach students valuable lessons
+--Ozobot
+--Ceaser Cipher Wheel
+--Weather Sensors
+--Pringles Can Engima Machine
+
