@@ -1,0 +1,40 @@
+Big Ideas:
+We want to create an application that teaches kids how to surf the internet safely.
+
+Brainstorm:
+
+-Age range we want to shoot for is middle school
+--Justification for Middle schools students is the average age a student recives a smart phone (11-12 years old)
+
+-Labs that teach skills or valuable lessons
+--Labs could be gamified to incentivize engagement
+
+-App should teach valuable internet surfing skills
+--App should inform kids about scams or other hazadous 
+
+-User engagment
+--Build a profile of the different types of users
+---Example: Student A,B,C. Each might have a different personality and familiarity with technology. We have the desire to create an accessable application,
+   so finding a solution that works for all of them would benefit the most people.
+
+-Vet ideas through teachers
+--Kids are a protected class. Thus, we need to be careful with how we interact with them, to avoid most complications, we need to interact with teachers
+--Focus on a panel of those with educational expertise, gather their thoughts and hopefully their endorsement. 
+
+-Uno has large educational ecosystem, would be a great resource/contact on how we can go about doing this
+--They could be a huge resource for us to create panels to receive feedback. 
+
+-Bloom's Taxonomy
+--Layers of learning
+--- how to reach students and get engagment from students.
+--- Get Students to recognize information and find connections
+--- Creation, produce new original work.
+---- Link to photo of Bloom's Taxonomy: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcft.vanderbilt.edu%2Fguides-sub-pages%2Fblooms-taxonomy%2F&psig=AOvVaw2jhdl36ISvApMsenMBZqA5&ust=1630628977164000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCID43bmE3_ICFQAAAAAdAAAAABAD
+
+-Drag and Drop
+--Tangible, hands on, ways to get kids to interact with the internet and more specifically technology. 
+
+-Unplugged exercise
+--Connect wire and cardboard boxes to demonstrate how a network works. 
+
+**Don't limit ourselves**
