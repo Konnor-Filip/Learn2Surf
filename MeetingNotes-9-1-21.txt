@@ -46,3 +46,11 @@ Brainstorm:
 --Weather Sensors
 --Pringles Can Engima Machine
 
+-HowSecureIsMyPassword.net
+--Show kids about how easy someone could guess their password, and how long it could take.
+
+-Printable worksheets
+--Binary Sheet to teach binary
+--Printable, ceaser cipher wheel.
+
+
