@@ -29,8 +29,8 @@
                    * Learning objective 
                      * Students are able to prevent malware from affecting their devices. 
                        * Assignment 
-                         * In the assignment, Students are able to mitigate malware.  
-                         * Safety
+                         * In the assignment, Students are able to mitigate malware.   
+        * Safety
             * Social Media Safety
             * 2FA
             * Password Safety
