@@ -1,0 +1,47 @@
+﻿A few Ideas for our Capstone Modules
+I like the idea of creating paper crafts that can be easily printed out or even recreated using any paper. 
+The goal is to help as many students learn without the need for expensive equipment and to reach as broad an audience as possible. 
+We may be able to design a simple site that allows for teachers to download this information and recreate it or print them out. 
+
+
+Authentication and 2 factor Authentication
+I envision this being a group activity in two parts. 
+The first part would consist of paper trucks entering a “Warehouse”. 
+It can be explained that to enter the warehouse, each truck coming must have the correct license plate number to enter (These don’t need to be large numbers either). 
+These can be printed on the side of the truck and have a preselected list of numbers that are allowed to enter. 
+Students can discuss whether or not the truck should be allowed access to the warehouse based on this criteria. 
+
+
+We can then ask the students the question, “What if a driver who isn’t allowed in uses a truck that is allowed to enter?” and with this we can introduce the idea of 2 Factor Authentication. 
+We can introduce a “Driver ID” that accompanies each truck, these can be tiny pieces of paper with a small number for the driver. 
+If both the ID and the Truck Number paired together match a pre approved list the truck can be allowed to enter. 
+We can introduce interesting scenarios like what if an approved ID is on the list and the approved Truck ID is on the list but they aren’t paired with each other. 
+
+
+We can have tiny truck printouts that have numbers printed on them, we can have little IDs cards that have a number on them as well. 
+This exercise would teach students about how authentication works as well as the advantages of two factor authentication. 
+
+
+Importance of Encryption
+This idea piggybacks off of Konnor’s great caesar's cipher code wheel idea. We can create a group of 3 students, students A, B and C will take turns in each role. 
+Student A wants to pass a message to student C but the message is passed through student B first. Student B can then read the message and pass it to Student C. 
+This is a great illustration of a man-in-the-middle attack. With this, student B will easily be able to read the message on the paper.
+
+
+In the second part we can have Student A and C secretly agree on a number between 1 and 26, this number will be used to encrypt the message with the Konnor’s code wheel cipher.  
+Student A can then pass the letter to Student B who will attempt to read the message aloud before passing it to Student C who will use the prearranged number to decode the message and read it aloud. 
+
+
+All of these ideas are work in progress and can be expanded upon if needed. We can add more here if needed and I am open to feedback!
+
+
+
+
+
+
+
+
+
+
+
+
