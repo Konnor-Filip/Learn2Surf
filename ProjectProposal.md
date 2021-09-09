@@ -1,7 +1,7 @@
-## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
+## CYBR4580 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
 
 ### Due Date
-February 13 by class time
+See Canvas
 
 **Submit a GitHub repo link to canvas**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
@@ -14,16 +14,18 @@ This project milestone tasks you with identifying project requirements, analyzin
   - Goals and Objectives
   - Merit of the Project
 - [Proposed project timeline](#proposed-project-timeline) - When will you do it?
-  - Define the tasks and expected time to completion
-  - Create and submit a gantt chart or other planning chart
+  - Define the expected tasks required to complete the project
+  - Create and submit an initial kanban board of tasks. 
+  - Create and submit a table that attempts to estimate the task completion times
 - [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
 - [Project Methodology](#project-methodology) - What has been done in the literature and what is your technical plan?
 - [Resources/Technology needed](#resources-needed) - What do you need to be successful?
-- [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
-- [Note about Teamwork and Group projects](#teamwork)
+- [First Sprint Plan](#first-sprint-plan) - Create the issues on the github issue tracker
+
+Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves is the goal of this project. 
 
 ### Using GitHub and Markdown
-For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas and Submitting a PDF copy to PURR). We will talk about this in class.
+For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas). We will talk about this in class.
 
 ## Executive Project Summary
 An executive summary should be evocative. It should capture a reader and make them want to be a part of your idea. In this milestone you will write an executive summary that defines the goals and objectives of your project in language that is easily readable and mental-image evoking. I (or anyone else) should be able to read your executive summary and instantly know a) what you are doing and b) why it is important. Executive summaries should be exciting and interesting. It is the first (and likely the only) chance for you to engage your reader and, in a real world setting, would determine if your product gets funded. An executive summary does not need technical detail to describe interesting functionality. You should mention your product by name without using phrases such as "the class", "the instructor", "project 2" etc.
@@ -46,19 +48,20 @@ Your summaries will be graded as follows following:
 |Project goals| Project goals are clear, concise, and in a bulleted list. Efforts are clearly tied to addressing the identified problem. Goals are stated at a high level and are free of technical jargon or unnecessary detail. | Goals are not as clear, 'in the weeds,' or not directly applicable to the problem. | No goals are identified or there are severe clarity issues. |
 |Project Merit | The benefits for pursing the project are clear and tied to addressing the identified problem(s). End user, societal, and industrial benefits are stated - if relevant.| Benefits and merits of the proposed work are muddled or not tied to the problem statement. | Merits are difficult to identify or missing entirely. |
 |Length| Summary is of reasonable length (no longer than 1 page, not too short)| Summary is slightly too short or too long | Summary is extremely short or long. |
-|Grammar, spelling, syntax | Summary is evocative and free of grammar, spelling, or syntax issues. | Summary contains a few syntax, grammar, or spelling issues. | Summary is difficult to read due to glaring grammar, syntax, or spelling issues|
 |Use of markdown| Summary should render as the project homepage on your GitHub repo. It should following markdown conventions. | Doesn't perfectly follow markdown syntax or isn't rendered on the repo home page correctly. | Doesn't use markdown or isn't displayed in the repo.|
 
-**60 points**
+**50 points**
 
 ## Proposed project timeline
 An important part of project planning is identifying tasks to be completed to address project goals and arranging those tasks in such a way that they can be completed within a (typically) fixed interval of time. In this class, that interval is the length of the semester. For milestone one, prepare an overall project timeline that identifies large tasks to be completed, estimates time of completion, and arranges those tasks chronologically over the project lifespan.
 
 ### Submission materials
-You should create a project (Kanban) board on GitHub and the create task cards that identify *major* tasks that span the rest of the semester. You can read more about the GitHub Project feature here: https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards
+You should create a project (Kanban) board on GitHub and the create task cards that identify *major* tasks you intend to spend time on over the semester. You can read more about the GitHub Project feature here: https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards
+
+Also submit a section of markdown in your README.md file called `Project Timeline`. In this section provide a tabular format with the task name from the kanban and the rough estimation of time needed to complete the task
 
 ### Grading Criteria
-Your gantt chart will be graded as follows:
+Your timeline and kanban will be graded as follows:
 
 | | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
@@ -106,27 +109,13 @@ Methodology is extremely important for conducting a successful project. While I 
 Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.
 
 ### Submission materials
-#### Literature Review
-For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important `keywords`, relevant `research papers`, and `the state of the art` in your area.
-
 #### Technical Plan
-Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
+You should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature and/or existing technology to the best extent possible (aka why reinvent the wheel?) Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
 Any data collection, testing/development methods, architectures, and data analysis techniques that you wish to use should all be included in your technical plan.
 
 ### Grading Criteria
-Your methodology (Lit review and Technical Plan) will be graded as follows.
-
-#### Initial Lit review
-
-| | Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
-|---|---|---|---|
-|Coverage| The literature review includes a range of topics and research relevant to the problem. | There are some areas that are not surveyed in the literature | The literature review is incomplete with respect to coverage |
-|Depth| Important sources that stand out in the literature are reviewed and discussed in detail. It is clear that the team has properly reviewed the cited works. | Some important references are not properly discussed in-depth. Questions exist as to the type or application of the cited works. | Many ill-defined or poorly sourced references.|
-|Use of structured Abstracts| The team uses structured abstract formats for their annotated bibliography. The structured abstracts are informative and useful for later. | The format is used, but annotations are not informative. | The format is not used or the annotations are poor and uninformative. |
-
-**90 points**
-#### Initial Technical Plan
+Your methodology will be graded as follows.
 
 | | Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
@@ -137,10 +126,10 @@ Your methodology (Lit review and Technical Plan) will be graded as follows.
 
 **120 points**
 ## Resources Needed
-Every team needs *something* to pull off their project. Clearly identify the technologies and products involved in your project.
+Every team needs *something* to pull off their project. Clearly identify the technologies, products, and any other resources needed for your project.
 
 ### Submission materials
-Under your requirements section in the README.md file in your GitHub repo, clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
+Under your requirements section in the README.md file in your GitHub repo, clearly identify the technologies, products, languages, human-centric skills, etc involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not resources are needed from Dr. Hale.
 
 Use the following table structure.
 ```markdown
@@ -166,6 +155,7 @@ You will be graded as follows:
 |Conforms to structure| Entries follow tabular format specified. Each resource has an assigned team member investigating it. | Some issues following structure. | Table not formatted or many issues.|
 
 **20 points**
+
 ## Project management Organization
 This milestone represents the first step forward in your capstone project. We will use Sprint / Agile-like methods to track your progress and organize your project management artifacts. In particular, you will use GitHub Issues to do this.
 
@@ -186,7 +176,7 @@ You will be graded as follows:
 You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project, 2) soliciting feedback from peers that might be useful for development or refinement of the project, and 3) presenting your methodology and scope to get recommendations from peers and the instructor.
 
 ### Submission Materials
-You will record your presentation as a video using VidGrid. Post the video to the canvas submission page AND in the slack `#sp-2021-general` chat. Also submit your slides on canvas.
+You will record your presentation as a video using VidGrid. Post the video to the canvas submission page AND in the slack `#fa-2021` general chat channel. Also submit your slides and a link to your github repository on canvas.
 
 ### Grading Criteria
 You will be graded by a presentation rubric on canvas.
