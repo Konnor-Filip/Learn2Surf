@@ -13,3 +13,12 @@ This project will consist of five main sprints and two smaller sprints. The proj
 |Malware Course Development| Weeks 12 - 14 | 2 Weeks | November 24th, 2021 |
 |2FA Course Development| Weeks 14 - 16 | 2 Weeks | December 8th, 2021 |
 |Project Review and Deployment| Weeks 16 - 18 | 1 - 2 Weeks | December 17th, 2021|
+
+## Risk Analysis
+|Risk name  | Impact     | Likelihood | Description | Action Plan |
+|-----------|------------|------------|-------------| -------------|
+|Unfamiliar with teaching (90) | 10 | 9 | Our group has not been to school for teaching. We do not have experience with creating a curriculum or teaching a class.  | Mitigate |
+|Project Scope (56) | 8 | 7 | We are ambitious with what we would like to accomplish this semester. We have five modules we would like to implement but no idea how long it will take to create each one.   | Monitor |
+|Communication with Stakeholders (40) | 8 | 5 | We will not have direct contact with the stakeholders of our project. This may make it difficult to make sure we are on track with what would be expected in a classroom.   | Accept |
+|Technology Knowledge (36) | 6 | 6 | Most of the group has not worked on Github before. We have to learn how to use Pages, Wikis, the markdown language and more in order to complete our project. If we choose to use outside resources there may be a learning curve there.  | Mitigate |
+|Teammate Availability (30) | 6 | 5 | Our team works very different schedules. We also have to attend classes meaning that meeting up outside of class time can be difficult.  | Accept |
