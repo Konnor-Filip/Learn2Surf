@@ -67,21 +67,20 @@
 ### Multi-Factor Authentication (MFA)
 1. **Identify the purpose of MFA.**
 * Learning Objective
+  * Describe the positives and the negatives of using MFA over a single method of authentication.
+  * Identify the ideal amount of protection for various types of accounts and devices.
 * Assignment 
 
 2. **Identify the types of MFA and give examples for each.**
 * Learning Objectives
-  * Describe something you know
-  * Describe something you have
-  * Describe something you are
+  * Identify various types of passcode styles that require memorization.
+  * Identify items that can be used to confirm access to an account or device.
+  * Describe some of the ways that biometrics are used to grant access.
+  * *Optional: Recognize that location and time are also methods of restricting access.*
 * Assignment 
   * Know: PIN, Password, Keystroke pattern
   * Have: Phone, token(card)
   * Are: Biometrics
-
-3. **Demonstrate the increasted effectiveness vs single factor.**
-* Learning Objective
-* Assignment 
 
 ### Password Safety
 1. **Teach students how to create a strong and memorable password.**
