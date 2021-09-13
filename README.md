@@ -10,8 +10,8 @@ Cybersecurity is crucial to the field of information technology. It applies to e
         * Get students to identify phishing attempts and ignore them
     * Malware
         * Get students to identify different types of malware and how to avoid it.
-    * Two Factor Authentication
-        * Get students to understand what 2FA is and how it can protect them
+    * Multi-Factor Authentication
+        * Get students to understand what MFA is and how it can protect them
     * Password Safety
         * Get students to understand the importance of a strong password, and how to create one
     * Social Media Safety
@@ -30,7 +30,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 |Social Media Safety Course Development| Weeks 8 - 10 | 2 Weeks | October 27th, 2021 |
 |Phishing Safety Course Development| Weeks 10 - 12 | 2 Weeks | November 10th, 2021 |
 |Malware Course Development| Weeks 12 - 14 | 2 Weeks | November 24th, 2021 |
-|2FA Course Development| Weeks 14 - 16 | 2 Weeks | December 8th, 2021 |
+|MFA Course Development| Weeks 14 - 16 | 2 Weeks | December 8th, 2021 |
 |Project Review and Deployment| Weeks 16 - 18 | 1 - 2 Weeks | December 17th, 2021|
 
 ## Risk Analysis
