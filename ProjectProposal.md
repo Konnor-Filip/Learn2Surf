@@ -22,7 +22,6 @@ This project milestone tasks you with identifying project requirements, analyzin
 - [Resources/Technology needed](#resources-needed) - What do you need to be successful?
 - [First Sprint Plan](#first-sprint-plan) - Create the issues on the github issue tracker
 
-Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves is the goal of this project. 
 
 ### Using GitHub and Markdown
 For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas). We will talk about this in class.
