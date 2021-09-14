@@ -137,3 +137,19 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Identify why recording passwords reduces their effectiveness.
   * Identify why password reuse can create problems.
   * Identify why password sharing can be dangerous.
+
+### Resources 
+* Malware
+  * Worksheet for matching malware: https://mrnussbaum.com/malware-matching
+* Phishing 
+  *  Temporary email used for phishing. (https://temp-mail.org/en/) 
+  *  Link to phishing tools: Teaching Tools · nebraska-gencyber-modules
+* Social Media 
+  * Online safety and Privacy : https://mlhale.github.io/nebraska-gencyber-modules/2021/online_safety_and_privacy/README/
+* MF authentication 
+  * Video explaining MF authentication : https://www.youtube.com/watch?v=tFv101qURKE
+  * Password Safety
+  * Testing Password strength: https://howsecureismypassword.net/
+* Miscellaneous 
+  * Instructor provided examples: https://www.nebraskagencyber.com/ 
+  * Professional instruction and direction: Dr. Hale & Masters instructors 
