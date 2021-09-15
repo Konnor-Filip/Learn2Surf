@@ -29,6 +29,7 @@
   * Assignment 
     * In the assignment, Students are able to mitigate malware.   
 
+## Safety
 ### Social Media Safety
 1. **To Teach students what information to avoid sharing online**
 * Learning Objective
@@ -87,8 +88,15 @@
 * Learning Objective
   * Students are able to implement strategies for creating a strong password.
 * Assignment
-  * 
+  * Students passwords pass the how strong is my password checker with at least 100 year time to break.
+* Students are able to remember their passwords for different websites.
+  * Students can login to new accounts after 1 day, 1 week, and 1 month of creating the password.
 2. **Teach students ways to keep their passwords secure**
+* Learning Objective
+  * Students will be able to recognize a social engineering attempt to gain password information.
+* Assignments  
+  * In a role play scenario the student identifies whether the friend is trying to gain their password or not.
+  * Looking at 4 different Facebook post the student will be able to correctly identify if it is a social engineering password post.
 * Learning Objectives
   * Identify why recording passwords reduces their effectiveness.
   * Identify why password reuse can create problems.
