@@ -162,3 +162,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 |Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
 |Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
 
+### Project Management Organization
+
+Github Project Board Link: https://github.com/Konnor-Filip/Learn2Surf/projects/1
+
