@@ -71,6 +71,7 @@
   * Describe the positives and the negatives of using MFA over a single method of authentication.
   * Identify the ideal amount of protection for various types of accounts and devices.
 * Assignment 
+  * Give an exercise demonstrating the ease of loss with SFA vs difficulty of access with MFA.
 
 2. **Identify the types of MFA and give examples for each.**
 * Learning Objectives
@@ -82,6 +83,7 @@
   * Know: PIN, Password, Keystroke pattern
   * Have: Phone, token(card)
   * Are: Biometrics
+  * Where/When
 
 ### Password Safety
 1. **Teach students how to create a strong and memorable password.**
@@ -101,3 +103,5 @@
   * Identify why recording passwords reduces their effectiveness.
   * Identify why password reuse can create problems.
   * Identify why password sharing can be dangerous.
+* Assignment
+  * In an exercise, demonstrate how quickly an acquaintance is able to access and cause problems with easily found/shared/reused passwords. 
