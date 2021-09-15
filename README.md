@@ -114,6 +114,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Describe the positives and the negatives of using MFA over a single method of authentication.
   * Identify the ideal amount of protection for various types of accounts and devices.
 * Assignment 
+  * Give an exercise demonstrating the ease of loss with SFA vs difficulty of access with MFA.
 
 2. **Identify the types of MFA and give examples for each.**
 * Learning Objectives
@@ -125,18 +126,28 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Know: PIN, Password, Keystroke pattern
   * Have: Phone, token(card)
   * Are: Biometrics
+  * Where/When
 
 ### Password Safety
 1. **Teach students how to create a strong and memorable password.**
 * Learning Objective
   * Students are able to implement strategies for creating a strong password.
 * Assignment
-  * 
+  * Students passwords pass the how strong is my password checker with at least 100 year time to break.
+* Students are able to remember their passwords for different websites.
+  * Students can login to new accounts after 1 day, 1 week, and 1 month of creating the password.
 2. **Teach students ways to keep their passwords secure**
+* Learning Objective
+  * Students will be able to recognize a social engineering attempt to gain password information.
+* Assignments  
+  * In a role play scenario the student identifies whether the friend is trying to gain their password or not.
+  * Looking at 4 different Facebook post the student will be able to correctly identify if it is a social engineering password post.
 * Learning Objectives
   * Identify why recording passwords reduces their effectiveness.
   * Identify why password reuse can create problems.
   * Identify why password sharing can be dangerous.
+* Assignment
+  * In an exercise, demonstrate how quickly an acquaintance is able to access and cause problems with easily found/shared/reused passwords. 
 
 ### Resources Needed 
 
