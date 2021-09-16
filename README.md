@@ -97,7 +97,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 * Learning Objective
   * Students will be able to impliment settings that will increase privacy. 
 * Assignment  
-  * Students can correctly navigate and enable settings that are for privacy. 
+  * Students will be tasked with navigating a social media app to enable privacy settings on their account or a fake one. 
 
 ### Authentication
 1. **Identify the purpose of MFA.**
