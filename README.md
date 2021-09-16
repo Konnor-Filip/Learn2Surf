@@ -47,18 +47,19 @@ This project will consist of five main sprints and two smaller sprints. The proj
 ### Phishing
 1. **Increase awareness as to what phishing is.**
   * Learning Objective
-    * Students are able to consistenty differentiate between legitimate communications and phishing attempts
+    * Students are able to consistenty identify phishing attempts
   * Assignment
-    * Students will be given a set of communications. These could be emails, texts, or other various communications. Given these communications, students will be tasked with differentiating between a legitimate communication and a phishing attempt.
-  * Assessment
-    * Students are able to correctly determine x/y attempts. Exact numbers TBA.
-2. **Instruct students as to how they should handle phishing attempts**
+    * Students are able to identify x/y phishing emails
+2. **Instruct students on ways to avoid and combat phishing.**
   * Learning Objective
-    * Students are able to execute the steps nessesary to report and delete phishing attempts
+    * Students know the steps to avoid falling victim to a phishing attempt
   * Assignment
-    * TBA
-  * Assessment
-    * TBA
+    * Students are able to list the steps they should take when avoid a phising attempt
+3. **Identify steps to take when someone is a victim of phishing.**
+  * Learning Objective
+    * Students know what to do if they have fallen victim to a phishing attack
+  * Assignment
+    * Students are able to follow steps to protect themselves if they fall victim to an attack
 
 ### Malware
 1. **Identfy different types of malware.**
