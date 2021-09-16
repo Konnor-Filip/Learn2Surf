@@ -151,7 +151,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
-|Malware matching worksheet | No | Daniel |A worksheet in which students can test their knowledge on the different types of malware.|
+|Malware matching worksheet | NO | Daniel |A worksheet in which students can test their knowledge on the different types of malware.|
 |Phishing email | NO | Octavio |A fake phishing email used to teach students what to look for.|
 |Phishing tools | NO | Octavio |Teaching tools on phishing that we can use as a reference. |
 |Online safety and Privacy Page | NO | Daniel |Page on online safety and privacy that we can use as a reference.|
