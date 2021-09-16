@@ -75,37 +75,29 @@ This project will consist of five main sprints and two smaller sprints. The proj
 ### Social Media Safety
 1. **To Teach students what information to avoid sharing online**
 * Learning Objective
-  * Students will be able to differentiate what information is acceptable to post online.
+  * Students will be able to judge what information is acceptable to post online.
 * Assignment
-  * Students are able to identify x/y posts with personal information.
+  * TBA
+
 2. **To Teach students learn what Cyberstalking is**
-* Learning Objective
-  * Students will be able correctly identify instances of Cyberstalking
-* Assignment
-  * Students will be able to identify x/y scenarios of Cyberstalking.
-* Learning Objective
+* Learning Objectives
+  * Students will be able to correctly distiguish Cyberstalking
   * Students will be able to correctly report instances of Cyberstalking
-* Assignment
-  * Students can correctly navigate the steps of reporting a cyber stalker. 
+* Assignments
+  * TBA
+
 3. **To Teach students learn what Cyberbullying is**
 * Learning Objective
-  * Students will be able correctly identify instances of Cyberbullying
-* Assignment  
-  * Students will be able to identify x/y scenarios of Cyberbullying.
-* Learning Objective
-  * Students will be able to correctly report instances of Cyberbullying.
-* Assignment  
-  * Students can correctly navigate the steps of reporting a cyber bully.
+  * Students will be able correctly distiguish Cyberbullying
+  * Students will be able to execute the steps to report Cyberbullying
+* Assignments
+  * TBA
+
 4. **To Teach students about Privacy options on Social Media**
 * Learning Objective
-  * Students will be able to correctly identify settings that will increase privacy. 
+  * Students will be able to impliment settings that will increase privacy. 
 * Assignment  
   * Students can correctly navigate and enable settings that are for privacy. 
-* Learning Objective  
-  * Students will be able to correctly identify fraudulent friend requests. 
-* Assignment  
-  * Students are able to identify x/y requests that are fake.
-
 
 ### Authentication
 1. **Identify the purpose of MFA.**
