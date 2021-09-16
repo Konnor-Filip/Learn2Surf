@@ -1,5 +1,14 @@
 # Learn2Surf
 
+## Table of Contents
+
+* [Executive Summary](#executive-summary)
+* [Project Timeline](#project-timeline)
+* [Risk Analysis](#risk-analysis)
+* [Project Methodology](#project-methodology)
+* [Resources Needed](#resources-needed)
+* [Project Management Organization](#project-management-organization)
+
 ## Executive Summary
 Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves online is the goal of this project. Learn2Surf aims to teach kids about phishing, social media safety, malware, two factor authentication, and password safety. Internet safety and etiquette, are an important part of cybersecurity. By teaching children how to be safe online, we can decrease the number of malicious events that transpire and make the internet a safer place to surf.
 
@@ -139,7 +148,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 * Assignment
   * In an exercise, demonstrate how quickly an acquaintance is able to access and cause problems with easily found/shared/reused passwords. 
 
-### Resources Needed 
+## Resources Needed 
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
@@ -152,7 +161,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 |Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
 |Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
 
-### Project Management Organization
+## Project Management Organization
 
 Github Project Board Link: https://github.com/Konnor-Filip/Learn2Surf/projects/1
 
