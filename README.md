@@ -6,19 +6,10 @@ Cybersecurity is crucial to the field of information technology. It applies to e
 ### Goals & Objectives
 * Teach Kids about internet safety
 * Inform Students about the following topics
-    * Phishing
-        * Get students to identify phishing attempts and ignore them
+    * [Phishing](#phishing)
     * Malware
-        * Get students to identify different types of malware and how to avoid it.
-    * Multi-Factor Authentication
-        * Get students to understand what MFA is and how it can protect them
     * Password Safety
-        * Get students to understand the importance of a strong password, and how to create one
     * Social Media Safety
-        * Get students to understand the resposibilities of their social media presence. 
-    * Stretch Goal:
-      * Encryption
-        * Teach students about encryption and cryptography to inspire intrest and to help them protect themselves.
         
 ## Project Timeline
 This project will consist of five main sprints and two smaller sprints. The project will kick off with researching styles of course structure to ensure the best learning experience and engagement from students in the middle school grade range (6-8). We will create a template in this first sprint that will be adaptable to each course topic to allow for ease of use. This is estimated to take one to two weeks. The main 5 core topics will last two weeks per topic and the final weeks of the project will be for corrections and small changes. 
