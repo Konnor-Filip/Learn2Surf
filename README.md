@@ -64,14 +64,14 @@ This project will consist of five main sprints and two smaller sprints. The proj
 ### Malware
 1. **Identfy different types of malware.**
   * Learning Objective 
-    * Students are able to identfiy different types of malware.
+    * Students are able to differentiate between the different types of malware.
   * Assignment 
-    * In the assignement, Students are able to distinguish between different types of malware.
+    * To test the students level of understanding, students will be given a matching worksheet where's the match the description with the type of malware.
 2. **Develop methods to avoid becoming a victim of malware.**
   * Learning Objective 
-    * Students are able to prevent malware from affecting their devices. 
+    * Students are able to identify malware and are able to combat them. 
   * Assignment 
-    * In the assignment, Students are able to mitigate malware.   
+    * TBA  
 
 ### Social Media Safety
 1. **To Teach students what information to avoid sharing online**
