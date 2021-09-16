@@ -30,9 +30,9 @@ This project will consist of two major sprints and two small sprints. The projec
 |Password Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
 |Social Media Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
 |Github Page Updates| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
-|Phishing Safety Course Development| Weeks 11 - 16 | 2 Weeks | November 24th, 2021 |
-|Malware Course Development| Weeks 11 - 16 | 2 Weeks | November 24th, 2021 |
-|Github Page Updates| Weeks 11 - 16 | 2 Weeks | November 24th, 2021 |
+|Phishing Safety Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
+|Malware Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
+|Github Page Updates| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
 |Project Review and Deployment| Weeks 16 - 18 | 1 - 2 Weeks | December 17th, 2021|
 
 ## Risk Analysis
