@@ -100,26 +100,17 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Students will be tasked with navigating a social media app to enable privacy settings on their account or a fake one. 
 
 ### Authentication
-1. **Identify the purpose of MFA.**
+1. **Identify and describe various methods of authentication**
 * Learning Objective
-  * Describe the positives and the negatives of using MFA over a single method of authentication.
-  * Identify the ideal amount of protection for various types of accounts and devices.
-* Assignment 
-  * Give an exercise demonstrating the ease of loss with SFA vs difficulty of access with MFA.
-
-2. **Identify the types of MFA and give examples for each.**
-* Learning Objectives
-  * Identify various types of passcode styles that require memorization.
-  * Identify items that can be used to confirm access to an account or device.
-  * Describe some of the ways that biometrics are used to grant access.
-  * *Optional: Recognize that location and time are also methods of restricting access.*
-* Assignment 
-  * Know: PIN, Password, Keystroke pattern
-  * Have: Phone, token(card)
-  * Are: Biometrics
-  * Where/When
+  * Students are able to describe the types of authentication methods that are most commonly used.
+  * Students are able to implement the correct level of protection for various types of accounts and devices.
+  * Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
+* Assignment
+  * (WIP) Describe a few types of multi-factor authentication and some of the systems that currently use them. Encourage students to give examples they have encountered themselves.
+  * (TBA) Apply level exercise
+  * (TBA) Analyze level exercise
     
-3. **Teach students how to create a strong and memorable password.**
+2. **Teach students how to create a strong and memorable password.**
 * Learning Objective
   * Students are able to construct a strong password.
 * Assignment
@@ -128,7 +119,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
     * Students are able to memorize their passwords for different websites.
 * Assignment
   * Students can log in to a new account after 1 day, 1 week, and 1 month of creating the password.
-4. **Teach students ways to keep their passwords secure**
+3. **Teach students ways to keep their passwords secure**
 * Learning Objective
   * Students will be able to recognize a social engineering attempt to gain password information.
 * Assignments  
