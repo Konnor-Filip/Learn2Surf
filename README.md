@@ -1,24 +1,24 @@
 # Learn2Surf
 
+## Table of Contents
+
+* [Executive Summary](#executive-summary)
+* [Project Timeline](#project-timeline)
+* [Risk Analysis](#risk-analysis)
+* [Project Methodology](#project-methodology)
+* [Resources Needed](#resources-needed)
+* [Project Management Organization](#project-management-organization)
+
 ## Executive Summary
 Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves online is the goal of this project. Learn2Surf aims to teach kids about phishing, social media safety, malware, two factor authentication, and password safety. Internet safety and etiquette, are an important part of cybersecurity. By teaching children how to be safe online, we can decrease the number of malicious events that transpire and make the internet a safer place to surf.
 
 ### Goals & Objectives
 * Teach Kids about internet safety
 * Inform Students about the following topics
-    * Phishing
-        * Get students to identify phishing attempts and ignore them
-    * Malware
-        * Get students to identify different types of malware and how to avoid it.
-    * Multi-Factor Authentication
-        * Get students to understand what MFA is and how it can protect them
-    * Password Safety
-        * Get students to understand the importance of a strong password, and how to create one
-    * Social Media Safety
-        * Get students to understand the resposibilities of their social media presence. 
-    * Stretch Goal:
-      * Encryption
-        * Teach students about encryption and cryptography to inspire intrest and to help them protect themselves.
+    * [Phishing](#phishing)
+    * [Malware](#malware)
+    * [Authentication](#authentication)
+    * [Social Media Safety](#social-media-safety)
         
 ## Project Timeline
 This project will consist of five main sprints and two smaller sprints. The project will kick off with researching styles of course structure to ensure the best learning experience and engagement from students in the middle school grade range (6-8). We will create a template in this first sprint that will be adaptable to each course topic to allow for ease of use. This is estimated to take one to two weeks. The main 5 core topics will last two weeks per topic and the final weeks of the project will be for corrections and small changes. 
@@ -147,7 +147,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 * Assignment
   * In an exercise, demonstrate how quickly an acquaintance is able to access and cause problems with easily found/shared/reused passwords. 
 
-### Resources Needed 
+## Resources Needed 
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
@@ -160,7 +160,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
 |Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
 |Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
 
-### Project Management Organization
+## Project Management Organization
 
 Github Project Board Link: https://github.com/Konnor-Filip/Learn2Surf/projects/1
 
