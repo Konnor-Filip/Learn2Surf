@@ -108,7 +108,7 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Students are able to identify x/y requests that are fake.
 
 
-### Multi-Factor Authentication (MFA)
+### Authentication
 1. **Identify the purpose of MFA.**
 * Learning Objective
   * Describe the positives and the negatives of using MFA over a single method of authentication.
@@ -127,16 +127,15 @@ This project will consist of five main sprints and two smaller sprints. The proj
   * Have: Phone, token(card)
   * Are: Biometrics
   * Where/When
-
-### Password Safety
-1. **Teach students how to create a strong and memorable password.**
+    
+3. **Teach students how to create a strong and memorable password.**
 * Learning Objective
   * Students are able to implement strategies for creating a strong password.
 * Assignment
   * Students passwords pass the how strong is my password checker with at least 100 year time to break.
 * Students are able to remember their passwords for different websites.
   * Students can login to new accounts after 1 day, 1 week, and 1 month of creating the password.
-2. **Teach students ways to keep their passwords secure**
+4. **Teach students ways to keep their passwords secure**
 * Learning Objective
   * Students will be able to recognize a social engineering attempt to gain password information.
 * Assignments  
