@@ -17,7 +17,7 @@ Cybersecurity is crucial to the field of information technology. It applies to e
 * Inform Students about the following topics
     * [Phishing](#phishing)
     * [Malware](#malware)
-    * [Password Safety](#password-safety)
+    * [Authentication](#authentication)
     * [Social Media Safety](#social-media-safety)
         
 ## Project Timeline
