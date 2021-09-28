@@ -11,8 +11,8 @@ Using images that link to modules in a page. Could have sections such as:
 ### Phishing
 
 #### What is Phising?
-[<img alt="image1" width="40px" src="images/learntosurfimage.jpg" />](https://www.google.com/)
-[<img alt="image2" width="40px" src="images/image2.jpg" />](https://www.google.com/)
+[<img alt="image1" width="40px" src="images/learntosurfimage1.jpg" />](https://www.google.com/)
+[<img alt="image2" width="40px" src="images/image2.png" />](https://www.google.com/)
 
 #### How do you protect yourself?
 
