@@ -18,7 +18,7 @@ Using images that link to modules in a page. Could have sections such as:
 | [<img alt="image1" width="25%" src="images/learntosurfimage1.jpg" />](https://www.google.com/) | Focus on Learning all about phishing! |
 
 ##### Learn to spot phishing
-|[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)| Now that you know what phishing is? Can you spot it?|
+[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
 
 #### How do you protect yourself?
 
