@@ -12,7 +12,7 @@ Using images that link to modules in a page. Could have sections such as:
 
 #### What is Phising?
 [<img alt="image1" width="40px" src="images/learntosurfimage.jpg" />](https://www.google.com/)
-[<img alt="image2" width="40px" src="images/image2.jpg" /><h2> This is a header</h2>](https://www.google.com/)
+[<img alt="image2" width="40px" src="images/image2.jpg" <h2> This is a header</h2>/>](https://www.google.com/)
 
 #### How do you protect yourself?
 
