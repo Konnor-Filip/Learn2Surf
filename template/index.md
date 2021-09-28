@@ -13,6 +13,8 @@ Using images that link to modules in a page. Could have sections such as:
 #### What is Phising?
 
 ##### What is Phishing?
+|||
+|---|---|
 | [<img alt="image1" width="25%" src="images/learntosurfimage1.jpg" />](https://www.google.com/) | Focus on Learning all about phishing! |
 
 ##### Learn to spot phishing
