@@ -18,7 +18,7 @@ Math Smart (Logical-Mathematical)
 Picture Smart (Spatial Intelligence)
 Music Smart 
 Body Smart (Bodily Kinesthetic)
-People Smart (Interpersonal)
+People Smart (Interpersonal) 
 Self Smart (Intrapersonal)
 Nature Smart
 
@@ -44,5 +44,14 @@ Outlines an 8 step lesson plan:
     c. Assessment activities (be sure to include adaptations for students with special needs)
     d. Wrap up
 8. Teacher reflection
+
+Dr. Hale Notes
+Loves idea of using different intelligences throughout the lesson plan
+Physical metaphores like role play
+Paper airplane example from a fly test TDD
+Unplugged and plugged in examples
+Mix different intelligences together 
+- do a crossword that the answers are needed for a different project (breakout box style)
+- groups are helpful to bring different learning styles together people can work on the parts that fit their personality best
 
 
