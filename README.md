@@ -168,7 +168,7 @@ From here we have further identified some possible learning objectives and assoc
 |Phishing tools | NO | Octavio |Teaching tools on phishing that we can use as a reference. |
 |Online safety and Privacy Page | NO | Daniel |Page on online safety and privacy that we can use as a reference.|
 |Youtube video on MF authentication | NO | Daniel |Youtube video explaining MF authentication.  |
-|Password strength testing website | NO | Octvio |A website that test the strength of a password.
+|Password strength testing website | NO | Octavio |A website that test the strength of a password.
 |Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
 |Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
 
