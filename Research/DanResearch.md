@@ -25,3 +25,5 @@ Many different topics with a lesson for each grade level (so 3 total for 6th, 7t
 - Focus: Social media safety
 
 [More activities](https://www.remc.org/21things4students/)
+
+[Dr Hale's mentioned site](https://clark.center/home)
