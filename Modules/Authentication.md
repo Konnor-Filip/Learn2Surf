@@ -6,9 +6,9 @@ Module Time:
 Assumptions: Assume that the student knows what a password is for (logging into an account).
 Materials:
 Learning Objectives:
-* Students are able to differentiate between a good password and a bad password. 
-* Students are able to construct a strong password.
-* Students are able to memorize their passwords for different websites.
+* Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
+* Students will be able to construct passwords that are secure against the most common password attacks.
+* Students will be able to create memorization techniques that will help to remember secure passwords. 
 * Students will be able to recognize a social engineering attempt to gain password information.
 * Students will be able to explain why recording passwords reduces their effectiveness, why password reuse can create problems, and why password sharing can be dangerous.
 
