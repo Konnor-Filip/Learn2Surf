@@ -13,9 +13,9 @@ Using images that link to modules in a page. Could have sections such as:
 #### What is Phising?
 
 ##### What is Phishing?
-| What is Phishing? | Module Focus |  
+|What is Phishing?  | Module Focus |  
 |---|---|  
-| [<img alt="image1" width="25%" src="images/learntosurfimage1.jpg" />](https://www.google.com/) | Focus on Learning all about phishing! |  
+|[<img alt="image1" width="25%" src="images/learntosurfimage1.jpg" />](https://www.google.com/)  | Focus on Learning all about phishing! |   
 
 ##### Learn to spot phishing
 [<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
@@ -37,6 +37,8 @@ Using long lists we can organize a table of contents and link to each module on 
 
 1. Numbered
 2. List
+
+[Link](../courseExample/courseEx.md)
 
 
 

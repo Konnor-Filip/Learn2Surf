@@ -173,3 +173,6 @@ From here we have further identified some possible learning objectives and assoc
 |Password strength testing website | NO | Octvio |A website that test the strength of a password.
 |Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
 |Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
+
+
+[Link](./template/templateEx.md)
