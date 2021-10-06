@@ -34,7 +34,7 @@ Teacher will ask the students input on where they use passwords in their lives. 
 ### Activities (Nano-modules):/
    **Make sure that students do NOT use their own passwords during activities**
    ### Whole Class:
-        Teacher shows multiple passwords on screen. Students use Think Pair Share to determine which passwords are good and which are bad.
+Teacher shows multiple passwords on screen. Students use Think Pair Share to determine which passwords are good and which are bad.
    ### Group:
    Students get in groups
         Make a password that they believe is secure
@@ -73,8 +73,11 @@ Up to teacher to determine if they enjoyed the lesson and would like to teach it
 Include Think Pair Share questions
 ### Activities (Nano-modules):
 ### Whole Class:
+
 ### Group:
+
 ### Individual:
+
 ### Wrap-up:
 
 ### Teacher Reflection:
