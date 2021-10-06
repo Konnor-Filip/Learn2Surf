@@ -27,7 +27,8 @@ Starting on 9/29
    * What is authentication?
    * Why do we need a password?
    * How can a password be cracked?
-### Warm-up: Warm-up: Teacher will ask the students input on where they use passwords in their lives. Ex. social media, email, school accounts etc. Teacher has a discussion with the class on why they believe it is important to have a password on their information. Then leads into how to build a strong password. (Slides needed) After slides they will move into three activities.
+### Warm-up: 
+Teacher will ask the students input on where they use passwords in their lives. Ex. social media, email, school accounts etc. Teacher has a discussion with the class on why they believe it is important to have a password on their information. Then leads into how to build a strong password. (Slides needed) After slides they will move into three activities.
 
 
 ### Activities (Nano-modules):/
@@ -39,15 +40,18 @@ Starting on 9/29
         Make a password that they believe is secure
         Discuss why they think it is a good password
         Check password against https://howsecureismypassword.net/
+
    Students pair up and one is assigned the password protector and one is assigned the password getter. The protector is given a password and they must prevent the getter from retrieving the password. The getter can use any methods they can think of to try and social engineer the protector to giving up the password.
 
         
    ### Individual: 
         
-### Wrap-up: Wrap-up: Have students share what they learned through this exercise. Also have them think about how the passwords will affect their lives and how they can implement what they learned in class.
+### Wrap-up:
+Have students share what they learned through this exercise. Also have them think about how the passwords will affect their lives and how they can implement what they learned in class.
 
 
-### Teacher Reflection: Teacher Reflection: Up to teacher to determine if they enjoyed the lesson and would like to teach it further.
+### Teacher Reflection: 
+Up to teacher to determine if they enjoyed the lesson and would like to teach it further.
 
 
 
