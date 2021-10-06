@@ -37,7 +37,8 @@ Starting on 9/29
         Make a password that they believe is secure
         Discuss why they think it is a good password
         Check password against https://howsecureismypassword.net/
-   Individual: 
+        
+   ### Individual: 
         
 ### Wrap-up:
 
@@ -46,24 +47,24 @@ Starting on 9/29
 
 
 ## Module Title: Multifactor Authentication (2/2)
-Module Time:
-Assumptions:
-Materials:
-Definitions:
+### Module Time:
+### Assumptions:
+### Materials:
+### Definitions:
 * Multi-Factor
-Learning Objectives:
+### Learning Objectives:
 * Students are able to describe the types of authentication methods that are most commonly used.
 * Students are able to implement the correct level of protection for various types of accounts and devices.
 * Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
-Class Discovery (Teacher):
+#### Class Discovery (Teacher):
 
-Warm-up:
+### Warm-up:
 Include Think Pair Share questions
-Activities (Nano-modules):
-Whole Class:
-Group:
-Individual:
-Wrap-up:
+### Activities (Nano-modules):
+### Whole Class:
+### Group:
+### Individual:
+### Wrap-up:
 
-Teacher Reflection:
+### Teacher Reflection:
