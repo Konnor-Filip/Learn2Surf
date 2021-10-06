@@ -1,7 +1,7 @@
 Starting on 9/29
 
 # Course: Authentication
-## Module Title: Password Creation/Safety (1/2)
+### Module Title: Password Creation/Safety (1/2)
 ## Module Time:
 Assumptions: Assume that the student knows what a password is for (logging into an account).
 Materials:
