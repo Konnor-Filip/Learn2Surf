@@ -5,10 +5,19 @@ Module Title: Password Creation/Safety (1/2)
 Module Time:
 Assumptions: Assume that the student knows what a password is for (logging into an account).
 Materials:
+Definitions:
+* Password
+* Authentication
+* Passphrase
+* Username
+* Brute Force Attack
+* Dictionary Attack
+* Credential Stuffing
 Learning Objectives:
+* Students will be able to understand the most common password attacks and how they compromise passwords < Need Further Guidance
 * Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
-* Students will be able to construct passwords that are secure against the most common password attacks.
-* Students will be able to create memorization techniques that will help to remember secure passwords. 
+* Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
+* Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
 * Students will be able to recognize a social engineering attempt to gain password information.
 * Students will be able to explain why recording passwords reduces their effectiveness, why password reuse can create problems, and why password sharing can be dangerous.
 
@@ -40,6 +49,8 @@ Module Title: Multifactor Authentication (2/2)
 Module Time:
 Assumptions:
 Materials:
+Definitions:
+* Multi-Factor
 Learning Objectives:
 * Students are able to describe the types of authentication methods that are most commonly used.
 * Students are able to implement the correct level of protection for various types of accounts and devices.
