@@ -2,6 +2,17 @@
 # Learn2Surf
 An educational tool, focused on teaching kids K-12 about the internet. As a focus, we would like teach k-12 students responsible behaviors  when they are using the internet. 
 
+## Modules 
+
+##### Learn to spot phishing
+[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
+##### Identify various methods of authentication
+[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
+##### Learn Social Media Safety
+[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
+##### Learn to Identify and counter Malware
+[<img alt="image2" width="25%" src="images/image2.png" />](https://www.google.com/)
+
 ## Table of Contents
 
 * [Executive Summary](#executive-summary)
