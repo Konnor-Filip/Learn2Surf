@@ -13,7 +13,7 @@ Starting on 9/29
 * Brute Force Attack
 * Dictionary Attack
 * Credential Stuffing
-Learning Objectives:
+### Learning Objectives:
 * Students will be able to understand the most common password attacks and how they compromise passwords < Need Further Guidance
 * Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
 * Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
@@ -21,30 +21,30 @@ Learning Objectives:
 * Students will be able to recognize a social engineering attempt to gain password information.
 * Students will be able to explain why recording passwords reduces their effectiveness, why password reuse can create problems, and why password sharing can be dangerous.
 
-Class Discovery (Teacher):
+### Class Discovery (Teacher):
 
-Authentication Course Introduction Overview:
-    What is authentication?
-    Why do we need a password?
-    How can a password be cracked?
-Warm-up:
+### Authentication Course Introduction Overview:
+   * What is authentication?
+   * Why do we need a password?
+   * How can a password be cracked?
+### Warm-up:
     
-Activities (Nano-modules):
-    **Make sure that students do NOT use their own passwords during activities**
-    Whole Class:
-    Group:
-        Students get in groups
+### Activities (Nano-modules):/
+   **Make sure that students do NOT use their own passwords during activities**
+   ### Whole Class:
+   ### Group:
+   Students get in groups
         Make a password that they believe is secure
         Discuss why they think it is a good password
         Check password against https://howsecureismypassword.net/
-    Individual: 
+   Individual: 
         
-Wrap-up:
+### Wrap-up:
 
-Teacher Reflection:
+### Teacher Reflection:
 
 
-Course: Authentication
+# Course: Authentication
 Module Title: Multifactor Authentication (2/2)
 Module Time:
 Assumptions:
