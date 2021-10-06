@@ -15,3 +15,9 @@ Link: https://www.readwritethink.org/classroom-resources/lesson-plans/when-young
 
 Another great resource that we can use when developing Think-Pair-Share style pieces for our different modules. It contains information on how to use Think Pair Share as well as some of the scientific basis behind using Think-Pair-Share. <br>
 Link: https://www.readwritethink.org/professional-development/strategy-guides/using-think-pair-share  
+
+Lists the types of different password attacks and their definitions. I found it helpful when writing some of the Password module. <br>
+Link: https://www.onelogin.com/learn/6-types-password-attacks
+
+The Common Sense Password-Power up module made for students in the 3rd grade. This could prove helpful in adapting it to be used for an older audience and could give us a great example of where to start. <br>
+Link: https://www.commonsense.org/education/digital-citizenship/lesson/password-power-up
