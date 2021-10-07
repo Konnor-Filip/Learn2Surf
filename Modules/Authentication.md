@@ -20,9 +20,11 @@ Starting on 9/29
 * Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
 * Students will be able to recognize a social engineering attempt to gain password information.
 * Students recognize the different aspects of password safety.
-  Students will be able to explain why recording passwords reduces their effectiveness, 
-  Students will be able to explain why password reuse can create problems. 
-  Students will be able to explain why password sharing can be dangerous.
+    * Students will be able to explain why recording passwords reduces their effectiveness 
+    *  Students will be able to explain why password reuse can create problems. 
+    * Students will be able to explain why password sharing can be dangerous.
+
+**Make sure that students do NOT use their own passwords during activities**
 
 ### Class Discovery (Teacher):
 What type of groups does your class work well in?
@@ -37,8 +39,7 @@ What ways do your students learn best?
 [comment]: <> (&#40;Should be challenging but not too challenging so that kids get interested&#41;)
 Teacher shows multiple passwords on screen. Students use Think Pair Share to determine which passwords are good and which are bad. 
 
-### Activities (Nano-modules):/
-   **Make sure that students do NOT use their own passwords during activities**
+   
    ### Whole Class Discussion (PowerPoint Slides):
 Teacher will ask the students input on where they use passwords in their lives. Ex. social media, email, school accounts etc. Teacher has a discussion with the class on why they believe it is important to have a password on their information. Then leads into how to build a strong password. (Slides needed) After slides they will move into three activities.
 
