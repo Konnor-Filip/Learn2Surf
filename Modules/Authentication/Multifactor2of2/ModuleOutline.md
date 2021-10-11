@@ -25,9 +25,9 @@ Include Think Pair Share questions
 ### Whole Class:
 
 ### Group:
-Group Size: 3-4
-Time: 15-20 Minutes
-Materials: Paper, a Bucket or Basket, pens or pencils, and paperclips. 
+Group Size: 3-4 <br>
+Time: 15-20 Minutes <br>
+Materials: Paper, a Bucket or Basket, pens or pencils, and paperclips. <br>
 
 This Active will consist of two distinct parts.
 Part 1:
