@@ -14,7 +14,7 @@ Starting on 9/29
 * Dictionary Attack
 * Credential Stuffing
 ### Learning Objectives:
-* Students will be able to understand the most common password attacks and how they compromise passwords < Need Further Guidance
+* Students will be able to understand the rational behind the most common password attacks and how they can compromise a password. 
 * Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
 * Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
 * Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
