@@ -15,7 +15,7 @@ See terms here: https://generated.photos/terms-and-conditions
 
 ## Bob
 
-[<img alt="Bob" width="25%" src="Bob.jpg" />]
+[<img alt="Bob" width="25%" src="bob.jpg" />]
 
 Bob is 64 and on the verge of retiring. Bob is loyal. As such, he has been teaching in the same school district for 20 years. This district is decently well off. Each student is issued their own chromebook to aid in their studies and complete assignments from home. The school that Bob teaches at doesn't have a free and reduced lunch program. There are about 300 students in the school. As for classrooms, there are about 20 students per teacher.As for Bob's classes, Bob is organized, he already has most of his lesson plans for the year planned out. However, he isn't as passionate about education as he once was. Thus, he mostly uses the same ones. Bob isn't especially well versed in newer technology. That is to say, he doesn't have time to learn all of the applications, techniques and practices that are constantly being developed. Currently, Bob teaches three main classes, Keyboarding Applications, Introduction to Web Desgin and Introduction to Computer Science. In these classes, Bob teaches kids fundemental computer knowledge with respect to each class. These skills include typing, html, css, and java. Due to his upcoming retirement, he doesn't want to create a brand new set of lesson plans. Instead he is looking for lesson plans online to help facilitate knowledge regarding safety and practices on the internet. One of the learning objectives is "Students will understand social, ethical, and human issues in relation to technology." This is one of the areas that Bob is looking for a few lesson plans. 
 
