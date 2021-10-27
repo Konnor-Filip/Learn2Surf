@@ -13,7 +13,7 @@
 Students will roleplay using the "Something they know" and "Something they are" topics that were taught in the lesson. 
 
 #### Activity
-Have the students get into groups of five. Give 5 envelopes to each group. Inside the envelopes will be one of three roles for the student to be. Each set of envelopes should have 1 authenticator, 1 gatekeeper, and 3 personnel.
+Have the students get into groups of five. Give 5 envelopes to each group. Inside the envelopes will be one of three roles for the student to be. Each set of envelopes should have 1 authenticator, 1 gatekeeper, and 3 personnel (personnel can be changed if class size is not divisible by 5).
 
 1. Authenticator (1) - This student will have a card in their envelope with the correct authentication to go through the gate. 
 2. Gatekeeper (1) - This student will have a card in their envelope that shows which two types of authentication the personnel need to show to get through the gate. 
