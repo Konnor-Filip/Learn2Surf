@@ -26,8 +26,8 @@ What ways do your students learn best?
 ### Warm-up:
 Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication. 
 
-## Group Activities (Micro-modules):
-### Whole Class Activities:
+## Class Discussion:
+### Whole Class Discussion:
 **Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** <br>
 **Show**: (Slide-Something you know, something you have, something you are) <br>
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
@@ -43,15 +43,13 @@ Students will be asked about where they use authentication in their lives. This 
 
 **Show**: (Slide-Something you are) <br>
 **Say**: Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are.
-
 Have the students break down into individuals or small groups to come up with other examples of authentication they have seen before. Let them work for 3-5 minutes. 
-
 Once time is up, have them volunteer examples they have come up with. Record the responses for all to see (whiteboard or computer).
-
 **Discuss**: Go through the responses and identify which ones are single authentication, two-factor authentication, and some ways that additional authentication can be added. <br>
 **Example**-Bank card: PIN-know/Card-have <br>
 **Example**-Online account: Password-know/Phone-have
 
+## Group Activities
 ### Small Group:
 #### Materials
 * Envelopes
