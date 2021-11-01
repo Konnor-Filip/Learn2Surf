@@ -1,10 +1,11 @@
-Starting on 10/6
+# Course: Authentication
 ## Module Title: Multifactor Authentication (2/2)
 ### Module Time: See individual micro-modules
 ### Assumptions: Students have used passwords before.
 ### Materials: See individual micro-modules
 ### Definitions:
-* Two-Factor Authentication
+* Authentication
+* Multi-Factor Authentication
 * Factors of Authentication
   * Something you are (Biomentrics)
   * Something you have (Token: Smart card/one-time passcode)
@@ -18,10 +19,12 @@ Starting on 10/6
 * Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
 #### Class Discovery (Teacher):
-???
+What type of groups does your class work well in?
+What size of groups can you divide your class into?
+What ways do your students learn best?
 
 ### Warm-up:
-(WIP) Include Think Pair Share questions
+Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication. 
 
 ## Group Activities (Micro-modules):
 ### Whole Class Activities:
@@ -50,23 +53,36 @@ Once time is up, have them volunteer examples they have come up with. Record the
 **Example**-Online account: Password-know/Phone-have
 
 ### Small Group:
-Group Size: 3-4 <br>
-Time: 15-20 Minutes <br>
-Materials: Paper, a Bucket or Basket, pens or pencils, and paperclips. <br>
+#### Materials
+* Envelopes
+* Print outs of cards
+* Paper clips to keep envelopes/cards organized
 
-This activity will consist of two parts. <br>
-**Part 1**: <br>
-Students will be given a bucket or basket that will be the “Warehouse” for this activity. Students will be given a list of Truck Numbers that they will need to check to ensure that only trucks that are allowed into the Warehouse are granted access. Students will discuss together as a group whether or not the truck should be allowed to be placed into the bucket. This portion of the activity is designed to be relatively easy, students will only need to check to see if the Truck’s Number is on the list. This is designed to be a “Something you know” type of authentication. 
+#### Preparation
+* Groups of 5 students
+* Groups of  5 envelopes with cards inside
 
-The teacher will gather the student's attention for a quick intermission. Pausing briefly to get the student's thoughts. The teacher will pose a new question. “What if a driver who isn’t allowed inside of the warehouse drives a truck that is allowed? How do we solve this problem?” This leads to the second part.
+#### Goal
+Students will roleplay using the "Something they know" and "Something they are" topics that were taught in the lesson. 
 
-**Part 2**: <br>
-Students will empty the bucket and new trucks, with Driver ID’s attached will be given to the students along with a new list that pairs a Truck number with a driver ID. Only the combination of the two will be allowed to enter. The Driver ID serves as a “Something you have” type of authentication. Students will then place Trucks with the IDs that they believe should be allowed to enter. Interesting combinations should be used such as
-	* A driver who isn’t allowed into the warehouse but a truck is
-	* A driver who is allowed into the warehouse but a truck that isn’t allowed.
-	* A driver and a truck who are both allowed to enter but do not match on the sheet. 
+#### Activity
+Have the students get into groups of five. Give 5 envelopes to each group. Inside the envelopes will be one of three roles for the student to be. Each set of envelopes should have 1 authenticator, 1 gatekeeper, and 3 personnel (personnel can be changed if class size is not divisible by 5).
 
+1. Authenticator (1) - This student will have a card in their envelope with the correct authentication to go through the gate. 
+2. Gatekeeper (1) - This student will have a card in their envelope that shows which two types of authentication the personnel need to show to get through the gate. 
+3. Personnel (3) - These students will have five different card in their envelope. These cards will consist of an eye, a fingerprint, a handprint, a password, and a pin number. Each student will have a different variation of these cards (colors/symbols). 
 
+To start the role play the gatekeeper will say "I need to see ______ and ______ forms of authentication to get through the gate." The blanks are the two types of authentication that were provided in the envelope.
+
+Next a personnel will approach the gate and show the two types of authentication requested by the gatekeeper. 
+
+Then the Authenticator will check the color/symbols of the authentication that the personnel showed. If they are correct the authenticator will say "Authentication Matched". If one does not match they will say "_____ Matches but ______ does not". Else if neither matches they will say "Authentication Denied"
+
+Based on the Authenticators answer the gatekeeper will either let the personnel through the gate or tell them sorry they are not allowed through.
+
+This process then repeats with the next personnel. 
+
+After the groups have finished have the students put their cards back in the envelopes  and pass them to the next group. This will give each student a chance to play one of the three roles in the game. Repeat for as long as time allows. 
 ## Individual (Nano-Modules):
 (WIP: Why biometrics are difficult. Matching game using very similar cards. Lesson in false-positives/false-negatives)
 
