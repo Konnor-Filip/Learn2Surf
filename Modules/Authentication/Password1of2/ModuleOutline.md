@@ -1,5 +1,3 @@
-Starting on 9/29
-
 # Course: Authentication
 ## Module Title: Password Creation/Safety (1/2)
 ### Module Time:
