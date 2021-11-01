@@ -26,10 +26,10 @@ This project will consist of two major sprints and two small sprints. The projec
 |Task Name  | Time Slot | Estimated Time to Complete | Estimated Delivery Date |
 |-------------------|---------|---------------------------|---------------------------|
 |Research and Framework Development| Weeks 4 - 6 | 2 Weeks | September 29th, 2021 |
-|Github Page Skeleton Development| Weeks 4 - 6 | 5 Weeks | September 29th, 2021 |
-|Password Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
-|Social Media Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
-|Github Page Updates| Weeks 6 - 11 | 5 Weeks | November 3th, 2021 |
+|Github Page Skeleton Development| Weeks 4 - 6 | 2 Weeks | September 29th, 2021 |
+|Authentication Course Development| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
+|Social Media Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
+|Github Page Updates| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
 |Phishing Safety Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
 |Malware Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
 |Github Page Updates| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
