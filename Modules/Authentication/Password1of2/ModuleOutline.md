@@ -7,12 +7,9 @@ Starting on 9/29
 ### Materials: Projector for slides, access to a computer
 ### Definitions:
 * Password
-* Authentication
-* Passphrase
-* Username
 * Brute Force Attack
 * Dictionary Attack
-* Credential Stuffing
+* Password Reuse Attack
 ### Learning Objectives:
 * Students will be able to understand the rational behind the most common password attacks and how they can compromise a password. 
 * Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
@@ -21,7 +18,7 @@ Starting on 9/29
 * Students will be able to recognize a social engineering attempt to gain password information.
 * Students recognize the different aspects of password safety.
     * Students will be able to explain why recording passwords reduces their effectiveness 
-    *  Students will be able to explain why password reuse can create problems. 
+    * Students will be able to explain why password reuse can create problems. 
     * Students will be able to explain why password sharing can be dangerous.
 
 **Make sure that students do NOT use their own passwords during activities**
@@ -31,10 +28,10 @@ What type of groups does your class work well in?
 What size of groups can you divide your class into?
 What ways do your students learn best?
 
-### Authentication Course Introduction Overview:
-   * What is authentication?
-   * Why do we need a password?
-   * How can a password be cracked?
+### Password Safety Module Overview:
+   * How are passwords cracked?
+   * How do we create a strong password?
+   * How can we remember our passwords?
 ### Warm-up:
 [comment]: <> (&#40;Should be challenging but not too challenging so that kids get interested&#41;)
 Teacher shows multiple passwords on screen. Students use Think Pair Share to determine which passwords are good and which are bad. 
