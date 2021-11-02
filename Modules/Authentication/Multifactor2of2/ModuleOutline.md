@@ -33,7 +33,7 @@ Students will be asked about where they use authentication in their lives. This 
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
 
 **Show**: (Side-Something you know) <br>
-**Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something only you are capable of knowing. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
+**Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something that only you know. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
 **Ask**: Have you or someone that you know ever used an ATM? What was needed to use it? (Expected responses: a card and a PIN number, hint as needed. An alternative to an ATM include a checkout at a store) <br>
 **Say**: A PIN number is another something-you-know. Something you know authentication is the most common form of authentication but is also seen as a weaker when compared to the other factors. Its strength is relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.
 
