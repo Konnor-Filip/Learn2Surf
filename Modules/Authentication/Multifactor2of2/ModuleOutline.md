@@ -33,12 +33,12 @@ Students will be asked about where they use authentication in their lives. This 
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
 
 **Show**: (Side-Something you know) <br>
-**Say**: The most common type of authentication is something-you-know. Passwords are the most frequently used something-you-know authentication. <br>
+**Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something only you are capable of knowing. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
 **Ask**: Have you or someone that you know ever used an ATM? What was needed to use it? (Expected responses: a card and a PIN number, hint as needed. An alternative to an ATM include a checkout at a store) <br>
-**Say**: A PIN number is another something-you-know. The card is an example of something-you-have.
+**Say**: A PIN number is another something-you-know. Something you know authentication is the most common form of authentication but is also seen as a weaker when compared to the other factors. Its strength is relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.
 
 **Show**: (Slide-Something you have) <br>
-**Say**: Bank cards or credit cards are examples of something-you-have.  <br>
+**Say**: The second most common type of authentication is Something You Have. This is something that is usually physically kept on you. An example of this is the bank cards or credit cards mentioned before. <br>
 **Ask**: When unlocking a phone have any of you used something besides a PIN number? (Expected responses: fingerprint or face)
 
 **Show**: (Slide-Something you are) <br>
@@ -48,6 +48,10 @@ Once time is up, have them volunteer examples they have come up with. Record the
 **Discuss**: Go through the responses and identify which ones are single authentication, two-factor authentication, and some ways that additional authentication can be added. <br>
 **Example**-Bank card: PIN-know/Card-have <br>
 **Example**-Online account: Password-know/Phone-have
+
+**Show**: (Slide-Somewhere you are) <br>
+
+**Show**: (Slide-Something you do) <br>
 
 ## Group Activities
 ### Small Group:
