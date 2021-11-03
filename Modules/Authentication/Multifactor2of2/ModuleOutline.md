@@ -44,8 +44,8 @@ Students will be asked about where they use authentication in their lives. This 
 
 **Show**: (Slide-Something you are) <br>
 **Say**: Something you are is type of authentication that is become more popular. Something you are is often referred to as biometric security, this is something that is unique to you and won't likely change. Fingerprints are unique and are often the most common type of something you are authentication. <br>
-**Ask** Thinking about something that is unique to yourself, what could be used as authentication? <br>
-**Say** There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics however, if the information for them is ever stolen, they can't be changed which would compromise security. <br>
+**Ask**: Thinking about something that is unique to yourself, what could be used as authentication? <br>
+**Say**: There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics however, if the information for them is ever stolen, they can't be changed which would compromise security. <br>
 
 **Show**: (Slide-Somewhere you are) <br>
 **Say**: Somewhere you are is a type of authentication that uses location to allow access to something. While not commonly noticed, somewhere you are type's of authentication are often used to check for activity that is outside of an apporved area. An example of this is allowing your phone to automatically unlock while you are home. <br>
