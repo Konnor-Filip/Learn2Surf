@@ -29,6 +29,11 @@ Students will be asked about where they use authentication in their lives. This 
 ## Class Discussion:
 ### Whole Class Discussion:
 **Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** <br>
+
+**Show**: Authentication definition slide
+**Ask**: What does Authentication mean
+**Say**: Authentication is the process or action of verifying the identity of a user or process. 
+
 **Show**: (Slide-Something you know, something you have, something you are) <br>
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
 
@@ -57,6 +62,9 @@ Students will be asked about where they use authentication in their lives. This 
 **Ask**: Is there something in your routine that you consider unique? How could it be used for authentication? <br>
 **Say**: This is the least common type of authentication. Technology surrounding it is in the early starges of being developed and maybe become more prominent in the future.  An example of this type of authentication would be detecting a suspicious log in at a time you aren't really active on an account. If you normally log into your account between 5p.m. to 10p.m. a log in at 3a.m. may be considered suspicious. 
 
+**Show**: Mutlifactor Authentication definition slide
+**Ask**: What could Mutlifactor Authentication mean?
+**Say**: The combination of two or more types of authentication to make something more secure.  
 
 Have the students break down into individuals or small groups to come up with other examples of authentication they have seen before. Let them work for 3-5 minutes. <br>
 Once time is up, have them volunteer examples they have come up with. Record the responses for all to see (whiteboard or computer).<br>
