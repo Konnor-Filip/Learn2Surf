@@ -183,6 +183,9 @@ p.copyright {
 
 .grid-item {
   width: 160px;
+    img {
+        width: 100%;
+    }
   height: 120px;
   float: left;
   background: #D26;
