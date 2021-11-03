@@ -35,31 +35,31 @@ Students will be asked about where they use authentication in their lives. This 
 **Show**: (Side-Something you know) <br>
 **Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something that only you know. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
 **Ask**: Have you or someone that you know ever used an ATM? What was needed to use it? (Expected responses: a card and a PIN number, hint as needed. An alternative to an ATM include a checkout at a store) <br>
-**Say**: A PIN is another something-you-know type of authentication. Something you know is the most common form of authentication but is also seen as a weaker when compared to the other factors. Its strength is relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.
+**Say**: A PIN is another something-you-know type of authentication. Something you know is the most common form of authentication but is also seen as a weaker when compared to the other factors. Its strength is relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.<br>
 
 **Show**: (Slide-Something you have) <br>
 **Say**: The second most common type of authentication is something you have. This is something that is usually physically kept on you. An example of this is the bank cards or credit cards mentioned before. <br>
-**Ask**: What other items could be used as a form of something you have authentication? (Expected responses: An ID Card or Mobile Phone App)
-**Say**: Something you have can be a variety of different things, which are typically more secure than something you know types of authentication. These can include single use passwords from apps or text messages and ID badges which can be used to gain access to buildings. While being more secure that passwords they can still be lost or stolen. 
+**Ask**: What other items could be used as a form of something you have authentication? (Expected responses: An ID Card or Mobile Phone App) <br>
+**Say**: Something you have can be a variety of different things, which are typically more secure than something you know types of authentication. These can include single use passwords from apps or text messages and ID badges which can be used to gain access to buildings. While being more secure that passwords they can still be lost or stolen. <br> 
 
 **Show**: (Slide-Something you are) <br>
-**Say**: Something you are is type of authentication that is become more popular. Something you are is often referred to as biometric security, this is something that is unique to you and won't likely change. Fingerprints are unique and are often the most common type of something you are authentication. 
-**Ask** Thinking about something that is unique to yourself, what could be used as authentication? 
-**Say** There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics however, if the information for them is ever stolen, they can't be changed which would compromise security. 
+**Say**: Something you are is type of authentication that is become more popular. Something you are is often referred to as biometric security, this is something that is unique to you and won't likely change. Fingerprints are unique and are often the most common type of something you are authentication. <br>
+**Ask** Thinking about something that is unique to yourself, what could be used as authentication? <br>
+**Say** There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics however, if the information for them is ever stolen, they can't be changed which would compromise security. <br>
 
 **Show**: (Slide-Somewhere you are) <br>
-**Say**: Somewhere you are is a type of authentication that uses location to allow access to something. While not commonly noticed, somewhere you are type's of authentication are often used to check for activity that is outside of an apporved area. An example of this is allowing your phone to automatically unlock while you are home. 
-**Ask**: Where might somewhere you are authentication be helpful?
+**Say**: Somewhere you are is a type of authentication that uses location to allow access to something. While not commonly noticed, somewhere you are type's of authentication are often used to check for activity that is outside of an apporved area. An example of this is allowing your phone to automatically unlock while you are home. <br>
+**Ask**: Where might somewhere you are authentication be helpful?<br>
 **Say**: It may not be the most used or noticable type of authentication but here are a few uses for somewhere you are authentication. A great example is banks often use location to check to see if money was stolen.
 
 **Show**: (Slide-Something you do) <br>
-**Say**: Something you do is a type of authentication that uses routines or patterns that are unique to you for authentication. 
-**Ask**: Is there something in your routine that you consider unique? How could it be used for authentication?
+**Say**: Something you do is a type of authentication that uses routines or patterns that are unique to you for authentication. <br>
+**Ask**: Is there something in your routine that you consider unique? How could it be used for authentication? <br>
 **Say**: This is the least common type of authentication. Technology surrounding it is in the early starges of being developed and maybe become more prominent in the future.  An example of this type of authentication would be detecting a suspicious log in at a time you aren't really active on an account. If you normally log into your account between 5p.m. to 10p.m. a log in at 3a.m. may be considered suspicious. 
 
 
-Have the students break down into individuals or small groups to come up with other examples of authentication they have seen before. Let them work for 3-5 minutes. 
-Once time is up, have them volunteer examples they have come up with. Record the responses for all to see (whiteboard or computer).
+Have the students break down into individuals or small groups to come up with other examples of authentication they have seen before. Let them work for 3-5 minutes. <br>
+Once time is up, have them volunteer examples they have come up with. Record the responses for all to see (whiteboard or computer).<br>
 **Discuss**: Go through the responses and identify which ones are single authentication, two-factor authentication, and some ways that additional authentication can be added. <br>
 
 **Example**-Bank card: PIN-know/Card-have <br>
