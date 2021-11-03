@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: Malware.jpg
 category: Services
 title: Malware
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  [Click Me to go to Malware Module](google.com) 
