@@ -1,7 +1,10 @@
 ---
 layout: module
-Title: Authentication
+title: Learn2Surf
+subTitle: Teaching Students to Surf the web
+permalink: /Learn2Surf/Authentication
 ---
+
 # Course: Authentication
 ## Module Title: Password Creation/Safety (1/2)
 ### Module Time:
