@@ -5,4 +5,4 @@ category: Services
 title: Authentication
 description: |
 ---
- [Click Me to go to Authentication Module](../Learn2Surf/modules/authentication.md) 
+ [Click Me to go to Authentication Module](https://konnor-filip.github.io/Learn2Surf/modules/authentication.md) 
