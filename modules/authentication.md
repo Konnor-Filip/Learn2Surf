@@ -1,8 +1,7 @@
 ---
 layout: module
-title: Learn2Surf
+title: Authentication
 subTitle: Teaching Students to Surf the web
-permalink: /Learn2Surf/Authentication
 ---
 
 # Course: Authentication
