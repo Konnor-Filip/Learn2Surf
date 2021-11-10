@@ -5,4 +5,4 @@ category: Services
 title: Malware
 description: |
 ---
-  [Click Me to go to Malware Module](google.com) 
+  [Click Me to go to Malware Module](auth-modules/malware) 
