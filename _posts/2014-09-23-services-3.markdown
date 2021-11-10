@@ -2,7 +2,7 @@
 layout: default
 img: Authentication.jpg
 category: Services
-title: Authentication
+title: Password Safety
 description: |
 ---
- [Click Me to go to Authentication Module](modules/authentication)
+ [Click Me to go to Authentication Module](modules/password-safety)

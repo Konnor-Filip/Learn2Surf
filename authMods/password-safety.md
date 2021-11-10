@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Authentication
+title: Password Safety
 subTitle: Teaching Students to Surf the web
 ---
 
