@@ -7,7 +7,7 @@ subTitle: Teaching Students to Surf the web
 <section id="services">
 
     <!-- Page Content -->
-    {% for post in site.posts.homePagePosts reversed %}
+    {% for post in site.posts reversed %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
