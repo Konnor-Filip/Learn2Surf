@@ -5,4 +5,4 @@ category: Services
 title: Social Media<br>Safety
 description: |
 ---
- [Click Me to go to Social Media Safety Module](google.com) 
+ [Click Me to go to Social Media Safety Module](auth-modules/social-media) 
