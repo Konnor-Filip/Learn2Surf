@@ -5,4 +5,4 @@ category: Services
 title: Multifactor Authentication
 description: |
 ---
- [Click Me to go to Authentication Module](modules/multifactor-auth)
+ [Click Me to go to Authentication Module](auth-modules/multifactor-auth)

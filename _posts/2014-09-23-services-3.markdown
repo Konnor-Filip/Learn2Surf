@@ -5,4 +5,4 @@ category: Services
 title: Password Safety
 description: |
 ---
- [Click Me to go to Authentication Module](modules/password-safety)
+ [Click Me to go to Authentication Module](auth-modules/password-safety)
