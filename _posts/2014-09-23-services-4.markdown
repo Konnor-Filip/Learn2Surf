@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Authentication.jpg
+img: multi-factor.png
 category: Services
 title: Multifactor Authentication
 description: |
