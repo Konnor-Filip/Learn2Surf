@@ -5,4 +5,4 @@ category: Services
 title: Phishing
 description: |
 ---
-[Click Me to go to Phishing Module](auth-modules/phishing) 
+[Click Me to go to Phishing Module](../phishing-modules/phishing)
