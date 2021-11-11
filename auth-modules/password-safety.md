@@ -28,6 +28,9 @@ subTitle: Teaching Students to Surf the web
 
 **Make sure that students do NOT use their own passwords during activities**
 
+### Resources
+Links to content used in this module can be found [here:](https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Password1of2)
+
 ### Class Discovery (Teacher):
 What type of groups does your class work well in?
 What size of groups can you divide your class into?
@@ -50,7 +53,7 @@ Teacher will ask the students input on where they use passwords in their lives. 
 Students get in groups
 Make a password that they believe is secure
 Discuss why they think it is a good password
-Check password against https://howsecureismypassword.net/
+Check password against [https://howsecureismypassword.net/](https://howsecureismypassword.net/)
 
 Students pair up and one is assigned the password protector and one is assigned the password getter. The protector is given a password and they must prevent the getter from retrieving the password. The getter can use any methods they can think of to try and social engineer the protector to giving up the password.
 
@@ -60,3 +63,5 @@ Have students share what they learned through this exercise. Also have them thin
 
 ### Teacher Reflection: 
 Up to teacher to determine if they enjoyed the lesson and would like to teach it further.
+
+
