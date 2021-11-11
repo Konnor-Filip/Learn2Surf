@@ -3,58 +3,25 @@ layout: default
 title: Learn2Surf
 subTitle: Teaching Students to Surf the web
 ---
-
-<section id="services">
-
-    <!-- Page Content -->
-    {% for post in site.posts reversed %}
-    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
-    <div class="content-section-a">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
-                </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
-                </div>
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <br /><br />
+                <h2>Motivations</h2>
+                <br />
+                <p>Learn2Surf is a capstone project started by a group of 5 students.</p>
+                <p>We desired to create educational content that would help teach students</p>
+                <p>about the dangers of the internet, and the responsibilities that come with browsing it.</p>
+                <p>When we started out, we felt that there was a distinct lack of adaquate educational</p>
+                <p>content for teachers to use in their classrooms. With the danger of malicious</p>
+                <p>actors out in the wild and their increasing prevelence, we felt like we needed </p>
+                <p>to take the reigns into our own hands. So we decided to prepare educational content</p>
+                <p>that can be consumed by teachers to help educate their students on those dangers</p>
+                <p>and how they can protect themselves.</p>
+                <br />
             </div>
-
         </div>
-        <!-- /.container -->
+    </section>
 
-    </div>
-    <!-- /.content-section-a -->
-    {% else %}
-
-    <div class="content-section-b">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
-                </div>
-                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.content-section-b -->
-    {% endif %}
-    {% endfor %}
-</section>
-
+    <!-- How to Section and Get Started Link -->
