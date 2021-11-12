@@ -99,6 +99,14 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
 }
 
+.content-section-c {
+    background-color: #f8f8f8;
+}
+
+.content-section-d {
+    border-bottom: 1px solid #e7e7e7;
+}
+
 .section-heading {
     margin-bottom: 30px;
 }
