@@ -19,6 +19,8 @@ h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    padding-left: 80px;
+    padding-top: 30px;
 }
 
 .lead {
@@ -135,6 +137,7 @@ h6 {
 
 .banner ul {
     margin-bottom: 0;
+    float: right; /* This is a test and might be changed */
 }
 
 .banner-social-buttons {
