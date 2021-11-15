@@ -23,10 +23,7 @@ header,
 hgroup,
 main,
 nav,
-section {
-  padding-left: 100px;
-  padding-top: 50px;
-}
+section,
 summary {
   display: block;
 }
