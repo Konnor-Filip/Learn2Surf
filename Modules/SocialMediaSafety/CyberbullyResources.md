@@ -4,7 +4,7 @@ The purpose of this module is not to give a single, all-encompassing lesson but 
 These lessons focus on a different aspect of difficulties that children face online.
 It is recommended to either: 
 - Teach one or more linked modules as is.
-- Incorperate parts from the modules into your teaching style.
+- Incorporate parts from the modules into your teaching style.
 ---
 ## Lesson Links
 These are links to very well crafted modules. Make sure to read through each of the provided resources!
