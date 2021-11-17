@@ -6,8 +6,27 @@ It is recommended to either:
 - Teach one or more linked modules as is.
 - Incorperate parts from the modules into your teaching style.
 ---
+## Lesson Links
+These are links to very well crafted modules. Make sure to read through each of the provided resources!
+1. [Commonsense.org: Digital-drama-unplugged](https://www.commonsense.org/education/digital-citizenship/lesson/digital-drama-unplugged)
+* Duration: Full lesson-45 minutes, Short lesson-15 minutes
+* Description: Teach students how to identify and de-escalate online conflicts.
+
+2. [Commonsense.org: Upstanders](https://www.commonsense.org/education/digital-citizenship/lesson/upstanders-and-allies-taking-action-against-cyberbullying)
+* Duration: 45 minutes
+* Description: Teach students to identify problem situations and encourage them to take action appropriately.
+
+3. [Teachinctrl.org: Cyberbullying](https://teachinctrl.org/cyberbullying)
+* Duration: Multiple 20-40 minute sub-lessons, +170 minutes total. activities take multiple sessions to complete. 
+* Description: Teaches students the difference between reasonable social conflicts and true bullying. 
+  * The activities have the students create a long term project that interacts outside of the classroom.
+
+4. [Commonsense.org: Hate Speech](https://www.commonsense.org/education/digital-citizenship/lesson/responding-to-online-hate-speech)
+* Duration: 45 minutes
+* Description: Teach students how to deal with bullying that has a larger target base.
+---
 ## Basic Concepts
-Below are a few major concepts to to help establish your own lessons covering cyberbullying.
+Below are a few major concepts to help establish your own lessons covering cyberbullying.
 ### 1. Identifying what (cyber)bullying looks like.
 * What identifies as bullying:
   * ”Seek to harm, intimidate, or coerce (someone perceived as vulnerable)”
@@ -42,22 +61,4 @@ Consider adding the following common activity concepts to the lesson:
 * Example: “You upload a picture of you and a friend out at a restaurant. A third party posts a negative comment on the picture”
 ### 2. Analysing prop social media posts
 * Additional action: Show more context for the post. This can be good to demonstrate what is actually happening rather than the initial emotional reaction.
----
-## Lesson Links
-These are links to very well crafted modules. Make sure to read through each of the provided resources!
-1. [Commonsense.org: Digital-drama-unplugged](https://www.commonsense.org/education/digital-citizenship/lesson/digital-drama-unplugged)
-* Duration: Full lesson-45 minutes, Short lesson-15 minutes
-* Description: Teach students how to identify and de-escalate online conflicts.
 
-2. [Commonsense.org: Upstanders](https://www.commonsense.org/education/digital-citizenship/lesson/upstanders-and-allies-taking-action-against-cyberbullying)
-* Duration: 45 minutes
-* Description: Teach students to identify problem situations and encourage them to take action appropriately.
-
-3. [Teachinctrl.org: Cyberbullying](https://teachinctrl.org/cyberbullying)
-* Duration: Multiple 20-40 minute sub-lessons, +170 minutes total. activities take multiple sessions to complete. 
-* Description: Teaches students the difference between reasonable social conflicts and true bullying. 
-  * The activities have the students create a long term project that interacts outside of the classroom.
-
-4. [Commonsense.org: Hate Speech](https://www.commonsense.org/education/digital-citizenship/lesson/responding-to-online-hate-speech)
-* Duration: 45 minutes
-* Description: Teach students how to deal with bullying that has a larger target base.
