@@ -36,3 +36,11 @@ These are links to very well crafted modules. Make sure to read through each of 
 * Duration: Full lesson-45 minutes, Short lesson-15 minutes
 * Description: Teach students to be careful who and how they talk to others online.
   * Note: A possible addition to this lesson might be one on reverse image searches (to help identify "red flag" situations). 
+---
+## Basic Concepts
+Below are a few major concepts to help establish your own lessons covering online privacy.
+### 1. What data can be tracked, how it is collected, and how it can be used.
+* Teachinctrl.org has an excellent list of points for this.
+### 2. How data can be used to identify someone.
+* This includes how seemingly benign information can be lead back to a student or...
+* How a student can identify if someone is not who they say they are.
