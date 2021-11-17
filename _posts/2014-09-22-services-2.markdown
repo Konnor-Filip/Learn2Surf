@@ -1,8 +1,1 @@
----
-layout: default
-img: Malware.jpg
-category: Services
-title: Malware
-description: |
----
-  [Click Me to go to Malware Module](../malware-modules/malware) 
+
