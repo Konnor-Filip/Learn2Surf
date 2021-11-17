@@ -5,4 +5,4 @@ category: Services
 title: Password Safety
 description: |
 ---
- [Click Me to go to Authentication Module](../auth-modules/password-safety)
+This module is for the purpose of teaching password safety. Password Safety is one of those aspects that is not talked about enough. It can be such an essential tool in online Safety. Click[ here ](../auth-modules/password-safety)to access the necessary resources.
