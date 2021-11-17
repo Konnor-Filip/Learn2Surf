@@ -1,8 +1,1 @@
----
-layout: default
-img: multi-factor.png
-category: Services
-title: Multifactor Authentication
-description: |
----
- [Click Me to go to Authentication Module](../auth-modules/multifactor-auth)
+
