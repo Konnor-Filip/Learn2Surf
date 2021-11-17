@@ -191,8 +191,8 @@ p.copyright {
 }
 
 /* ---- grid-item ---- */
-
-.grid-item {
+/* Fixing broken css */
+/* .grid-item {
   width: 160px;
     img {
         width: 100%;
@@ -203,4 +203,4 @@ p.copyright {
   border: 2px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
   border-radius: 5px;
-}
+} */
