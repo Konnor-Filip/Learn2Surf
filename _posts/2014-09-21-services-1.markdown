@@ -1,8 +1,1 @@
----
-layout: default
-img: Phishing.jpg
-category: Services
-title: Phishing
-description: |
----
-[Click Me to go to Phishing Module](../phishing-modules/phishing)
+
