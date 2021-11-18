@@ -110,8 +110,6 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
     display: inline-block;
     vertical-align: middle;
-    background-color: #f8f8f8;
-
 }
 
 .section-heading {
@@ -169,6 +167,17 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+}
+
+.l2s-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 footer {
