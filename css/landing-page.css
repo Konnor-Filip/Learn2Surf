@@ -112,6 +112,21 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
 }
 
+.parent-flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -10px;
+  margin-left: -10px;
+
+}
+
+.child-flexbox {
+  width: calc(25% - 10px);
+  margin-left: 10px;
+  margin-top: 10px;
+
+}
+
 .section-heading {
     margin-bottom: 30px;
 }
