@@ -101,13 +101,13 @@ h6 {
 
 .content-section-c {
     padding: 10px 0;
-    background-color: #f8f8f8;
     padding-left: 30%; 
     padding-right: 30%;
 }
 
 .content-section-d {
     padding: 10px 0;
+    background-color: #f8f8f8;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -115,8 +115,7 @@ h6 {
 .parent-flexbox {
   display: flex;
   flex-wrap: wrap;
-  margin-left: -10px;
-
+  padding: 10px;
 }
 
 .child-flexbox {
