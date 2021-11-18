@@ -129,6 +129,13 @@ h6 {
 
 }
 
+.auth-box {
+  background: url(../img/phishing.png) no-repeat center center;
+  height: 50%;
+  width:100px;
+  background-size: cover;
+}
+
 .section-heading {
     margin-bottom: 30px;
 }
