@@ -121,7 +121,7 @@ h6 {
 }
 
 .child-flexbox {
-  width: calc(25% - 10px);
+  width: calc(33% - 10px);
   margin-left: 10px;
   margin-top: 10px;
 
