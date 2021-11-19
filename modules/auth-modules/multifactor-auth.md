@@ -17,6 +17,7 @@ Links to content used in this module can be found **[here:](https://github.com/K
   * Something you know (Password/PIN)
   * Somewhere you are (Geo-location)
   * Something you do (Mouse movement/signiture)
+
 ### Learning Objectives:
 * Students will be able to differentiate between the five different factors of authentication. 
 * Students are able to describe the types of authentication methods that are most commonly used.
