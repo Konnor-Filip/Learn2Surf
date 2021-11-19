@@ -5,10 +5,9 @@ subTitle: Teaching Students to Surf the web
 ---
 
 
-::: warning
+
 # **Course: Authentication** 
 ### **Module Title: Multifactor Authentication (2/2)**
-:::
 ##### **Module Time: See individual micro-modules**
 #####  **Assumptions: Students have used passwords before.**
 ### **Resources**
