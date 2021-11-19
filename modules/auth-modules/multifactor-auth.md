@@ -4,8 +4,7 @@ title: Multifactor Authentication
 subTitle: Teaching Students to Surf the web
 ---
 
-
-
+(../../img/mod/Auth.png)
 # **Course: Authentication** 
 ### **Module Title: Multifactor Authentication (2/2)**
 ##### **Module Time: See individual micro-modules**
