@@ -4,7 +4,7 @@ title: Multifactor Authentication
 subTitle: Teaching Students to Surf the web
 ---
 
-![](../../img/mod/Auth.png)
+![](../../img/mod/Auth1.png)
 ### **Resources**
 Links to content used in this module can be found **[here:](https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Multifactor2of2)**
 
