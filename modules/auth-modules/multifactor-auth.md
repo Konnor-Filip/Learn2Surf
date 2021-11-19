@@ -33,7 +33,6 @@ What ways do your students learn best?
 Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication. 
 
 ![](../../img/mod/ClaDe.png)
-## Class Discussion:
 ### Whole Class Discussion:
 **Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** 
 
@@ -80,7 +79,7 @@ Once time is up, have them volunteer examples they have come up with. Record the
 **Example**-Bank card: PIN-know/Card-have <br>
 **Example**-Online account: Password-know/Phone-have
 
-## Group Activities
+![](../../img/mod/ClaDe2.png)
 ### Small Group:
 #### Materials
 * Envelopes
@@ -112,7 +111,8 @@ Based on the Authenticators answer the gatekeeper will either let the personnel 
 This process then repeats with the next personnel. 
 
 After the groups have finished have the students put their cards back in the envelopes  and pass them to the next group. This will give each student a chance to play one of the three roles in the game. Repeat for as long as time allows. 
-## Individual (Nano-Modules):
+
+![](../../img/mod/ClaDe3.png)
 (WIP: Why biometrics are difficult. Matching game using very similar cards. Lesson in false-positives/false-negatives)
 
 ### Wrap-up:
