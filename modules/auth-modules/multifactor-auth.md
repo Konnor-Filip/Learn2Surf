@@ -79,7 +79,7 @@ Once time is up, have them volunteer examples they have come up with. Record the
 **Example**-Bank card: PIN-know/Card-have <br>
 **Example**-Online account: Password-know/Phone-have
 
-![](../../img/mod/ClaDe2.png)
+![](../../img/mod/ClaDe2 .png)
 ### Small Group:
 #### Materials
 * Envelopes
