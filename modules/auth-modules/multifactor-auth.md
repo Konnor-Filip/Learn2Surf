@@ -9,9 +9,9 @@ subTitle: Teaching Students to Surf the web
 Links to content used in this module can be found **[here:](https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Multifactor2of2)**
 
 ### Definitions:
-* Authentication
-* Multi-Factor Authentication
-* Factors of Authentication
+* **Authentication**
+* **Multi-Factor Authentication**
+* **Factors of Authentication**
   * Something you are (Biomentrics)
   * Something you have (Token: Smart card/one-time passcode)
   * Something you know (Password/PIN)
@@ -43,7 +43,7 @@ Students will be asked about where they use authentication in their lives. This 
 **Show**: (Slide-Something you know, something you have, something you are) <br>
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
 
-**Show**: **(Side-Something you know)** <br>
+**Show**: (Side-Something you know) <br>
 **Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something that only you know. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
 **Ask**: Have you or someone that you know ever used an ATM? What was needed to use it? (Expected responses: a card and a PIN number, hint as needed. An alternative to an ATM include a checkout at a store) <br>
 **Say**: A PIN is another something-you-know type of authentication. Something you know is the most common form of authentication but is also seen as a weaker form when compared to the other factors. Its strength relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.<br>
