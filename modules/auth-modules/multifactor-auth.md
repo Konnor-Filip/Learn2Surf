@@ -3,12 +3,16 @@ layout: module
 title: Multifactor Authentication
 subTitle: Teaching Students to Surf the web
 ---
-# Course: Authentication
-## Module Title: Multifactor Authentication (2/2)
-### Module Time: See individual micro-modules
-### Assumptions: Students have used passwords before.
-### Resources
-Links to content used in this module can be found [here:](https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Multifactor2of2)
+
+
+::: warning
+# **Course: Authentication** 
+### **Module Title: Multifactor Authentication (2/2)**
+:::
+##### **Module Time: See individual micro-modules**
+#####  **Assumptions: Students have used passwords before.**
+### **Resources**
+Links to content used in this module can be found **[here:](https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Multifactor2of2)**
 
 ### Definitions:
 * Authentication
