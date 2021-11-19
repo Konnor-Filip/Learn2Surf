@@ -34,7 +34,7 @@ Students will be asked about where they use authentication in their lives. This 
 
 ## Class Discussion:
 ### Whole Class Discussion:
-**Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** <br>
+**Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** 
 
 **Show**: (Slide-Authentication definition slide) <br>
 **Ask**: What does Authentication mean? <br>
@@ -43,7 +43,7 @@ Students will be asked about where they use authentication in their lives. This 
 **Show**: (Slide-Something you know, something you have, something you are) <br>
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
 
-**Show**: (Side-Something you know) <br>
+**Show**: **(Side-Something you know)** <br>
 **Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something that only you know. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
 **Ask**: Have you or someone that you know ever used an ATM? What was needed to use it? (Expected responses: a card and a PIN number, hint as needed. An alternative to an ATM include a checkout at a store) <br>
 **Say**: A PIN is another something-you-know type of authentication. Something you know is the most common form of authentication but is also seen as a weaker form when compared to the other factors. Its strength relies on the complexity and length of the password. PINs are usually less secure than passwords because they are shorter in length.  The card is an example of something-you-have.<br>
@@ -53,7 +53,7 @@ Students will be asked about where they use authentication in their lives. This 
 **Ask**: What other items could be used as a form of something you have authentication? (Expected responses: An ID Card or Mobile Phone App) <br>
 **Say**: Something you have can be a variety of different things, which are typically more secure than something you know types of authentication. These can include single use passwords from a phone apps or text messages and ID badges which can be used to gain access to buildings. While being more secure that passwords because they are physically kept on you, they can be lost or stolen. <br> 
 
-**Show**: (Slide-Something you are) <br>
+**Show**: (Slide-Something you are) 
 **Say**: Something you are is type of authentication that is become more popular. Something you are is often referred to as biometric security, this is something that is unique to you and won't likely change. Fingerprints are unique and are often the most common type of something you are authentication. <br>
 **Ask**: Thinking about something that is unique to yourself, what could be used as authentication? <br>
 **Say**: There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics. However, if the information for your biometrics is ever stolen, they can't be changed which and this would compromise security. <br>
