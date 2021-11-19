@@ -19,12 +19,10 @@ Links to content used in this module can be found **[here:](https://github.com/K
   * Something you do (Mouse movement/signiture)
 
 ### Learning Objectives:
-|||
-| - | - |
-| Students will be able to differentiate between the five different factors of authentication.   | 
-| Students are able to describe the types of authentication methods that are most commonly used.   | 
-|Students are able to implement the correct level of protection for various types of accounts and devices.|
-|Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.|
+* Students will be able to differentiate between the five different factors of authentication.    
+* Students are able to describe the types of authentication methods that are most commonly used.   
+* Students are able to implement the correct level of protection for various types of accounts and devices. 
+* Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
 #### **Class Discovery (Teacher):**
 What type of groups does your class work well in?
