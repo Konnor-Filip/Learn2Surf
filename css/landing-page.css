@@ -134,10 +134,8 @@ h6 {
 
 .auth-box {
     flex-direction: column;
-    background: url(../img/phishing.png) no-repeat center center;
     height: 50%;
     width:100%;
-    background-size: cover;
 }
 
 .section-heading {
