@@ -32,7 +32,7 @@ What ways do your students learn best?
 ### Warm-up:
 Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication. 
 
-![](../../img/mod/ClaDe.png)
+![](../../img/mod/ClaDe4.png)
 ### Whole Class Discussion:
 **Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)** 
 
