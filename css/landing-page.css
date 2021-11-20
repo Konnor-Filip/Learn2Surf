@@ -122,12 +122,9 @@ h6 {
     width: calc(33% - 10px);
     height: 25%;
     background-color: white;
-
-
+    margin-left: 10px;
 }
 .child-content {
-    margin-left: 10px;
-    margin-top: 10px;
     text-align: center;
     padding: 100px;
     height: 50%;
