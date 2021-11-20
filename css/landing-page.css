@@ -121,12 +121,14 @@ h6 {
 .child-flexbox {
   width: calc(33% - 10px);
   height: 25%;
+
+}
+.child-content {
   margin-left: 10px;
   margin-top: 10px;
   text-align: center;
   background-color: white;
   padding: 100px;
-
 }
 
 .auth-box {
