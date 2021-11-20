@@ -25,7 +25,7 @@ Links to content used in this module can be found **[here:](https://github.com/K
 * Students are able to implement the correct level of protection for various types of accounts and devices. 
 * Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
-#### **Class Discovery (Teacher):**
+### **Class Discovery (Teacher):**
 What type of groups does your class work well in?
 What size of groups can you divide your class into?
 What ways do your students learn best?
