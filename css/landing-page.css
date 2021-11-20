@@ -128,9 +128,12 @@ h6 {
     text-align: center;
     padding: 100px;
     height: 50%;
+    flex-grow: 0;
+    flex-direction: column;
 }
 
 .auth-box {
+    flex-direction: column;
     height: 50%;
     width:100%;
 }
