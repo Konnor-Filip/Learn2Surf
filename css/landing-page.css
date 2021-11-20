@@ -118,28 +118,6 @@ h6 {
   padding: 50px;
 }
 
-/* .child-flexbox {
-    width: calc(33% - 10px);
-    height: 25%;
-    background-color: white;
-    margin-left: 10px;
-}
-.child-content {
-    text-align: center;
-    padding: 100px;
-    height: 50%;
-    flex-grow: 0;
-    flex-direction: column;
-}
-
-.auth-box {
-    flex-direction: column;
-    background: url(../img/phishing.png) no-repeat center center;
-    height: 50%;
-    width:100%;
-    background-size: cover;
-} */
-
 .child-box {
     border: 1px solid #ccc;
     float: left;
