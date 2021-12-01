@@ -1,10 +1,6 @@
-<!DOCTYPE HTML> 
-<HTML> 
-<head> 
-<meta charset="utf-8"> 
-<title>Multifactor Authentication</title> 
-</head> 
-<body> 
+<section id="multifactor-authentication">
+        <div class="content-section-c" style="padding-left: 10%; padding-right: 10%; padding-top: 50px;">
+        <div style="text-align: center;">
 
 <h1>Authentication: Multi-factor Authentication</h1>
 <h2>Module time: 45min to 1hr</h2>
@@ -13,17 +9,12 @@
 
 <p>Links to content used in this module can be found<a href="https://github.com/Konnor-Filip/Learn2Surf/tree/main/Modules/Authentication/Multifactor2of2"> here:</a> </p>
 
-<h3>Definitions:</h3>
-    <ul>
-       <li>Authentication</li>   
-       <li>Multi-Factor Authentication</li>
-       <li>Factors of Authentication</li>
-       <li>Something you are (Biomentrics)</li>
-       <li>Something you have (Token: Smart card/one-time passcode)</li>
-       <li>Something you know (Password/PIN)</li>
-       <li>Somewhere you are (Geo-location)</li>
-       <li>Something you do (Mouse movement/signiture)</li>
-  </ul>
+</div>
+</div>
+
+    <div class="content-section-d" style="padding-left: 10%; padding-right: 10%; padding-top: 10px;">
+        <div style="text-align: left;">
+            <h2><u>Learning Objectives</u></h2>
 
 <h3>Learning Objectives:</h3>
    <ul>
@@ -34,10 +25,21 @@
    </ul>
 <h3>Class Discovery (Teacher):<h3>
     <p>What type of groups does your classwork well in?<br>What size of groups can you divide your class into?<br>What ways do your students learn best?</p>
-<h3>Warm-up:</h3>
-   <p>Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication.</p>
+    
+    </div>
+</div>
 
-<h2>Group Discussion:</h2> 
+
+    <div class="content-section-c" style="padding-right: 0%; padding-left: 0%;">
+        <div style="text-align: left; margin-left: auto; margin-right: auto;">
+            <button type="button" class="collapsible">Warm Up</button>
+            <div class="content">
+   <p>Students will be asked about where they use authentication in their lives. This can include logging in with passwords, using a student ID card at the library, a locker combination, etc. The teacher will have the students discuss how the forms of authentication are different from each other as a lead up to introducing the 5 different forms of authentication.</p>
+</div>   
+
+
+            <button type="button" class="collapsible">Group Activity</button>
+            <div class="content">
 
     <h3>Whole Class Discussion:</h3>
         <p>Introduction to multi-factor authentication (Size: Any, Time: 10-20 minutes, Required resources: Provided slides and either access to a computer or a whiteboard)</p>
@@ -87,10 +89,13 @@
 
        <p>Example-Bank card: PIN-know/Card-have</p>
        <p>Example-Online account: Password-know/Phone-have</p>
+       
+</div>
 
-<h2>Group Activities:</h2> 
-
-    <h3>Small Group:</h3> 
+            <button type="button" class="collapsible">Group Activities</button>
+            <div class="content">
+            
+                <h3>Small Group:</h3> 
         <h4>Materials</h4> 
             <ul>
                 <li>Envelopes</li>
@@ -127,8 +132,11 @@
                     <p>This process then repeats with the next personnel.</p> 
 
                     <p>After the groups have finished have the students put their cards back in the envelopes and pass them to the next group. This will give each student a chance to play one of the three roles in the game. Repeat for as long as time allows.</p>
+                        
+</div>
 
-<h2>Individual (Nano Module):</h2>
+<button type="button" class="collapsible">Individual (Nano Module)</button>
+            <div class="content">
 
     <p>(WIP: Why biometrics are difficult. Matching game using very similar cards. A lesson in false-positives/false-negatives)</p>
 
@@ -136,6 +144,26 @@
         <p>(WIP: Quiz, requires feasibility analysis from tech crew)</p> 
 
     <h3>Teacher Reflection:</h3>
+</div> 
 
-</body> 
-</html><!DOCTYPE html>
+</div>
+</div>
+
+</section> 
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
