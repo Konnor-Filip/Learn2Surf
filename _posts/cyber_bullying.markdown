@@ -1,8 +1,8 @@
 ---
 layout: default
-img: Social-Media.jpg
+img: Malware.jpg
 category: Services
-title: Cyber<br>Bullying
+title: Cyber Bullying
 description: |
 ---
-With the increase in accessibility to the internet. Many people are taking their private lives onto the web.  Social Media can be a great way for friends and family to connect but it can also be a good way to let unwanted people in. In this module, you will find all the resources and knowledge to teach on this subject. Click[ here ](../social-media)to access the Social-Media Safety Module. 
+Malware is a constant threat to any system. Proper procedures and proper knowledge can help against this threat. This module has all the information and resources needed. Click[ here ](../malware-modules/malware)to access it.  
