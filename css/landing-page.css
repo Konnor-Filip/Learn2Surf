@@ -144,14 +144,12 @@ h6 {
 }
 
 .content-section-e {
-    width: 25vw;
-    height: 100vh;
-    padding: 10px 0;
-    background-color: #f8f8f8;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+    border: 1px solid #ccc;
     float: left;
-    disply: grid;
+    width: calc(33% - 10px);
+    height: 25%;
+    background-color: white;
+    margin-left: 10px;
 }
 
 .collapsible {
