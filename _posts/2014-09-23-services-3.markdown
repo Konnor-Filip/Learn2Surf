@@ -4,5 +4,6 @@ img: Phishing.jpg
 category: Services
 title: Phishing
 description: |
+link: ../phishing-modules/phishing
 ---
 Phishing is the act of tricking an individual for valuable information. This can be anything from passwords to financial information. This module will have all the resources needed for teaching the fundamentals of phishing. The resources and information for this module can be found[ here](../phishing-modules/phishing).
