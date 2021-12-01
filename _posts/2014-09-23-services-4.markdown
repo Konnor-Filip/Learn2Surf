@@ -6,4 +6,4 @@ title: Malware
 description: |
 link: ../malware-modules/malware
 ---
-Malware is a constant threat to any system. Proper procedures and proper knowledge can help against this threat. This module has all the information and resources needed. Click[ here ](../malware-modules/malware)to access it.  
+Malware is a constant threat to any system. Proper procedures and proper knowledge can help against this threat. This module has all the information and resources needed. Click here to access it.  
