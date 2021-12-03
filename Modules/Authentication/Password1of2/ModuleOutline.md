@@ -10,6 +10,7 @@
 * Password Reuse Attack
 ### Learning Objectives:
 * Students will be able to understand the rational behind the most common password attacks and how they can compromise a password. 
+<--- Spelled rationale 
 * Students will be able to differentiate between good and bad passwords with regards to the most common password attacks. 
 * Students will be able to construct passwords that are both memorable and secure against the most common password attacks.
 * Students will be able to create memorization techniques that will allow the students to more easily remember secure passwords. 
@@ -24,7 +25,7 @@
 ### Class Discovery (Teacher):
 What type of groups does your class work well in?
 What size of groups can you divide your class into?
-What ways do your students learn best?
+What ways do your students learn best? 
 
 ### Password Safety Module Overview:
    * How are passwords cracked?
