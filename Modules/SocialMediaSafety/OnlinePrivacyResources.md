@@ -1,8 +1,11 @@
 ## Forward
 Keeping children safe online is difficult with the ever changing online enviornment.
+[//]: <> (change to/Spelled: "with the ever-changing online environment")
 The good news is there are a number of concepts that continue to be excellent baselines to keep them safe online.
 The purpose of this module is not to give a single, all-encompassing lesson but instead give directions to existing lessons.
+[//]: <> (Add comma: "but instead, give")
 These lessons focus on a different aspect of difficulties that children face online.
+[//]: <> (change to: "These lessons focus on different aspects")
 It is recommended to either: 
 - Teach one or more linked modules as is.
 - Incorporate parts from the modules into your teaching style.
@@ -16,7 +19,7 @@ These are links to very well crafted modules. Make sure to read through each of 
 
 2. [Teachinctrl.org: Privacy](https://teachinctrl.org/privacy)
 * Duration: Multiple 30 minute sub-lessons and 15 minute reflection, 105-110 minutes total.
-* Description: Teach students what information can be shared and should not be shared. Reinforce the concept that information online is effectively permanant.
+* Description: Teach students what information can be shared and should not be shared. Reinforce the concept that information online is effectively permanant.[//]: <> (spelled: "permanent")
   * Note: Page 2 of the lesson materials has an excellent list of concepts to teach.  
     * What data can be tracked.
     * How that data is collected.
@@ -55,7 +58,8 @@ Below are a few major concepts to help establish your own lessons covering onlin
     * Examples: Phone, Apple based OS
     * Desktop, Windows based OS
 * Everyday individuals (friends and strangers) are also curious about what you do on the internet.
-  * Your stance and opinion on any topic they are interested in.
+[//]: <> (change to: "Every day")
+* Your stance and opinion on any topic they are interested in.
 * Remember, anything that goes onto the internet is there permanently. Wayback Machine is a good example of an internet archive.
 #### 1.2. How they get it (Data collection).
 * Companies:
@@ -68,7 +72,8 @@ Below are a few major concepts to help establish your own lessons covering onlin
   * Social media (manual and/or web crawlers)
   * Information submitted (surveys of all types, excellent for collecting password hints such as “my first teacher, my first animal”)
 * Everyday individuals:
-  * What you say in online communications (Forum posts, social media posts, email, texts)
+[//]: <> (change to: "Every day")
+* What you say in online communications (Forum posts, social media posts, email, texts)
   * Anywhere you are mentioned. This can include news or posts others create (truthful or not!)
 #### 1.3. How it is used (Data utilization).
 * Companies
@@ -77,7 +82,8 @@ Below are a few major concepts to help establish your own lessons covering onlin
   * Attacks on your profiles (identifying passwords directly or indirectly)
   * Identifying vulnerabilities that could lead to a successful attack
 * Everyday individuals:
-  * Form opinions based on information gathered
+[//]: <> (change to: "Every day")
+* Form opinions based on information gathered
 ### 2. How data can be used to identify someone.
 * This includes how seemingly benign information can be led back to a student or how a student can identify if someone is not who they say they are.
   * An exercise in sleuthing through social media makes for the best exercise to make students think about both of these aspects
