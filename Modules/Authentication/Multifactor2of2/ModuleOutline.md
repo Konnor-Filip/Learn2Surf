@@ -8,10 +8,12 @@
 * Multi-Factor Authentication
 * Factors of Authentication
   * Something you are (Biomentrics)
+  [//]: <> ("Biometrics")
   * Something you have (Token: Smart card/one-time passcode)
   * Something you know (Password/PIN)
   * Somewhere you are (Geo-location)
   * Something you do (Mouse movement/signiture)
+  [//]: <> ("signature")
 ### Learning Objectives:
 * Students will be able to differentiate between the five different factors of authentication. 
 * Students are able to describe the types of authentication methods that are most commonly used.
@@ -36,6 +38,7 @@ Students will be asked about where they use authentication in their lives. This 
 
 **Show**: (Slide-Something you know, something you have, something you are) <br>
 **Say**: Passwords are just one type of authentication that help to make sure it is really you on an account. There are many different ways that help keep others out of your accounts.
+[//]: <> ("that helps to make")
 
 **Show**: (Side-Something you know) <br>
 **Say**: The most common type of authentication is something-you-know. Something you know refers to something that you have committed to memory and is something that only you know. An example of something you know is a password, which is the most frequently used something-you-know authentication. <br>
@@ -49,21 +52,28 @@ Students will be asked about where they use authentication in their lives. This 
 
 **Show**: (Slide-Something you are) <br>
 **Say**: Something you are is type of authentication that is become more popular. Something you are is often referred to as biometric security, this is something that is unique to you and won't likely change. Fingerprints are unique and are often the most common type of something you are authentication. <br>
+[//]: <> (change to: "Something you are is a type of")
 **Ask**: Thinking about something that is unique to yourself, what could be used as authentication? <br>
 **Say**: There are several different things that are unique to you that can be used for biometrics. Fingerprints, eye scanners, facial recognition, and voice recognition are each examples of a biometric authentication and fall under something-you-are. This type of authentication is some of the most secure because of the unique differences in biometrics. However, if the information for your biometrics is ever stolen, they can't be changed which and this would compromise security. <br>
+[//]: <> (change wording to: "stolen, it can't be changed, which would compromise security.")
 
 **Show**: (Slide-Somewhere you are) <br>
 **Say**: Somewhere you are is a type of authentication that uses location for identification purposes. While not commonly noticed, somewhere you are types of authentication are often used to check for activity that is outside of an apporved location. An example of this is allowing your phone to automatically unlock while you are home. <br>
 **Ask**: Where might somewhere you are authentication be helpful?<br>
 **Say**: It may not be the most used or noticable type of authentication but it is still a helpful form of security. A great example of this is that banks often use location to check to see if money was stolen.
+[//]: <> (spelled: "noticeable")
 
 **Show**: (Slide-Something you do) <br>
 **Say**: Something you do is a type of authentication that uses routines or patterns that are unique to you for identification. <br>
 **Ask**: Is there something in your routine that you consider unique? How could it be used for authentication? <br>
 **Say**: This is the least common type of authentication. Technology surrounding it is in the early starges of being developed and maybe become more prominent in the future.  An example of this type of authentication would be detecting a suspicious log in at a time you aren't really active on an account. If you normally log into your account between 5p.m. to 10p.m. a log in at 3a.m. may be considered suspicious. 
+[//]: <> (spelled: in th early "stages" of being)
+[//]: <> (change to: "login" for the 2 instances)
 
 **Show**: (Slide-Mutlifactor Authentication definition) <br>
+[//]: <> (Spelled: "Multifactor-Authentication")
 **Ask**: What could Mutlifactor Authentication mean? <br> 
+[//]: <> (Spelled: "Multifactor-Authentication")
 **Say**: The combination of two or more types of authentication to make something more secure. <br>
 
 Have the students break down into individuals or small groups to come up with other examples of authentication they have seen before. Let them work for 3-5 minutes. <br>
@@ -93,10 +103,13 @@ Have the students get into groups of five. Give 5 envelopes to each group. Insid
 1. Authenticator (1) - This student will have a card in their envelope with the correct authentication to go through the gate. 
 2. Gatekeeper (1) - This student will have a card in their envelope that shows which two types of authentication the personnel need to show to get through the gate. 
 3. Personnel (3) - These students will have five different card in their envelope. These cards will consist of an eye, a fingerprint, a handprint, a password, and a pin number. Each student will have a different variation of these cards (colors/symbols). 
+[//]: <> (change to: "cards in thier envelopes")
 
 To start the role play the gatekeeper will say "I need to see ______ and ______ forms of authentication to get through the gate." The blanks are the two types of authentication that were provided in the envelope.
+[//]: <> ("role-play")
 
 Next a personnel will approach the gate and show the two types of authentication requested by the gatekeeper. 
+[//]: <> (change to: "Next, personnel")
 
 Then the Authenticator will check the color/symbols of the authentication that the personnel showed. If they are correct the authenticator will say "Authentication Matched". If one does not match they will say "_____ Matches but ______ does not". Else if neither matches they will say "Authentication Denied"
 
@@ -105,10 +118,15 @@ Based on the Authenticators answer the gatekeeper will either let the personnel 
 This process then repeats with the next personnel. 
 
 After the groups have finished have the students put their cards back in the envelopes  and pass them to the next group. This will give each student a chance to play one of the three roles in the game. Repeat for as long as time allows. 
+[//]: <> (Add a comma: "groups have finished, have")
+
 ## Individual (Nano-Modules):
 (WIP: Why biometrics are difficult. Matching game using very similar cards. Lesson in false-positives/false-negatives)
+[//]: <> (Remove)
 
 ### Wrap-up:
 (WIP: Quiz, requires feasability analysis from tech crew)
+[//]: <> (Remove)
 
 ### Teacher Reflection:
+[//]: <> (Needs to be removed or more added)
