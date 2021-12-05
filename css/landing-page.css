@@ -139,8 +139,11 @@ h6 {
 }
 
 .wrapper {
-    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid blue;
     overflow: hidden;
+    background-color: #f8f8f8 ;
 }
 
 .content-section-e {
@@ -148,7 +151,7 @@ h6 {
     float: left;
     width: calc(66% - 10px);
     height: 25%;
-    background-color: #f8f8f8;
+    background-color: white;
     margin-left: 10px;
 }
 
