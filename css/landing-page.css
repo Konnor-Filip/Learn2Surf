@@ -148,7 +148,7 @@ h6 {
     float: left;
     width: calc(66% - 10px);
     height: 25%;
-    background-color: white;
+    background-color: #f8f8f8;
     margin-left: 10px;
 }
 
