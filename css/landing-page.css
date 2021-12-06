@@ -152,7 +152,14 @@ h6 {
     .wrapper {
         flex-direction: column;
     }
+    .content-section-e{
+        width: auto;
+    }
+    .child-box {
+        width: auto;
+    }
 }
+
 
 .content-section-e {
     border: 1px solid #ccc;
