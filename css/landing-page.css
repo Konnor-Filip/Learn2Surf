@@ -158,6 +158,9 @@ h6 {
     .child-box {
         width: auto;
     }
+    .parent-flexbox {
+        flex-direction: column;
+    }
 }
 
 
@@ -238,6 +241,7 @@ h6 {
   display: flex;
   flex-wrap: wrap;
   padding: 50px;
+  flex-direction: row;
 }
 
 .child-box {
