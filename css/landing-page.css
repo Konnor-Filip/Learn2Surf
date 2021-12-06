@@ -183,6 +183,14 @@ h6 {
   display: inline-block;
 }
 
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
