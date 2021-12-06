@@ -181,13 +181,13 @@ h6 {
 .dropdown {
   position: relative;
   display: inline-block;
+  padding-top: 10px;
 }
 
 .dropbtn {
-  background-color: #04AA6D;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
 }
 
@@ -210,7 +210,7 @@ h6 {
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #f8f8f8;}
 
 .content {
   padding: 0 18px;
