@@ -247,7 +247,6 @@ h6 {
 .child-box {
     border: 1px solid #ccc;
     background-color: white;
-    margin-left: 10px;
 }
 
 .child-box:hover {
