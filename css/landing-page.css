@@ -141,7 +141,6 @@ h6 {
 .wrapper {
     padding-top: 20px;
     padding-bottom: 20px;
-    border: 1px solid blue;
     overflow: hidden;
     background-color: #f8f8f8 ;
     display:flex;
@@ -246,9 +245,6 @@ h6 {
 
 .child-box {
     border: 1px solid #ccc;
-    float: left;
-    width: calc(33% - 10px);
-    height: 25%;
     background-color: white;
     margin-left: 10px;
 }
