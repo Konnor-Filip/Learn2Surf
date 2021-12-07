@@ -156,6 +156,7 @@ h6 {
     }
     .child-box {
         width: auto;
+        margin-left: 0;
     }
     .parent-flexbox {
         flex-direction: column;
