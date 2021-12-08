@@ -1,13 +1,13 @@
 ## Forward
 There is extensive information and research on the subject of cyberbully prevention and remediation. 
-The purpose of this module is not to give a single, all-encompassing lesson, but instead give directions to existing lessons.
-These lessons focus on a different aspect of difficulties that children face online.
+The purpose of this module is not to give a single, all-encompassing lesson, but instead to give directions to existing lessons.
+These lessons focus on different aspects of difficulties that children face online.
 It is recommended to either: 
 - Teach one or more linked modules as is.
 - Incorporate parts from the modules into your teaching style.
 ---
 ## Lesson Links
-These are links to well crafted modules. Make sure to read through each of the provided resources!
+These are links to well-crafted modules. Make sure to read through each of the provided resources!
 1. [Commonsense.org: Digital-drama-unplugged](https://www.commonsense.org/education/digital-citizenship/lesson/digital-drama-unplugged)
 * Duration: Full lesson-45 minutes, Short lesson-15 minutes
 * Description: Teach students how to identify and de-escalate online conflicts.
@@ -59,5 +59,5 @@ Consider adding the following common activity concepts to the lesson:
 * For variation: Describe the relationship between the two parties, the platform on which it was shared.
 * Additional action: What would be the next action to take if the student is put into the position of either party (or perhaps both).
 * Example: “You upload a picture of you and a friend out at a restaurant. A third party posts a negative comment on the picture”
-### 2. Analysing prop social media posts
+### 2. Analyzing prop social media posts
 * Additional action: Show more context for the post. This can be good to demonstrate what is actually happening rather than the initial emotional reaction.
