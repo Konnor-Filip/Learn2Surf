@@ -1,14 +1,14 @@
 ## Forward
-Keeping children safe online is difficult with the ever changing online enviornment.
+Keeping children safe online is difficult with the ever changing online environment.
 The good news is there are a number of concepts that continue to be excellent baselines to keep them safe online.
-The purpose of this module is not to give a single, all-encompassing lesson but instead give directions to existing lessons.
+The purpose of this module is not to give a single, all-encompassing lesson, but instead give directions to existing lessons.
 These lessons focus on a different aspect of difficulties that children face online.
 It is recommended to either: 
 - Teach one or more linked modules as is.
 - Incorporate parts from the modules into your teaching style.
 ---
 ## Lesson Links
-These are links to very well crafted modules. Make sure to read through each of the provided resources!
+These are links to well crafted modules. Make sure to read through each of the provided resources!
 1. [Commonsense.org: Share Awareness](https://www.commonsense.org/education/digital-citizenship/lesson/being-aware-of-what-you-share)
 * Duration: 50 minutes
 * Description: Teach students how their activities are tracked online and a few ways to turn the tracking off.
@@ -16,8 +16,8 @@ These are links to very well crafted modules. Make sure to read through each of 
 
 2. [Teachinctrl.org: Privacy](https://teachinctrl.org/privacy)
 * Duration: Multiple 30 minute sub-lessons and 15 minute reflection, 105-110 minutes total.
-* Description: Teach students what information can be shared and should not be shared. Reinforce the concept that information online is effectively permanant.
-  * Note: Page 2 of the lesson materials has an excellent list of concepts to teach.  
+* Description: Teach students what information can be shared and should not be shared. Reinforce the concept that information online is effectively permanent.
+  * Note: Page 2 of the lesson materials have an excellent list of concepts to teach.  
     * What data can be tracked.
     * How that data is collected.
     * What that data can be used for.
@@ -26,15 +26,15 @@ These are links to very well crafted modules. Make sure to read through each of 
 3. [Commonsense.org: Digital Footprints](https://www.commonsense.org/education/digital-citizenship/lesson/the-power-of-digital-footprints)
 * Duration: Full lesson-45 minutes, Short lesson-15 minutes
 * Description: Teach and demonstrate how actions online can be tracked as evidence. 
-  * Encourages students to be careful what they post AND look carefully into what others post.
+  * Encourages students to be careful what they post AND look carefully at what others post.
 
 4. [Commonsense.org: False Social Media Accounts](https://www.commonsense.org/education/digital-citizenship/lesson/who-are-you-online)
 * Duration: Full lesson-45 minutes, Short lesson-15 minutes
 * Description: Teach students about the usage and issues that come from the usage of false accounts.
 
-5. [Commonsense.org: ](https://www.commonsense.org/education/digital-citizenship/lesson/chatting-safely-online)
+5. [Commonsense.org: Chatting Safely Online](https://www.commonsense.org/education/digital-citizenship/lesson/chatting-safely-online)
 * Duration: Full lesson-45 minutes, Short lesson-15 minutes
-* Description: Teach students to be careful who and how they talk to others online.
+* Description: Teach students to be careful about who and how they talk to others online.
   * Note: A possible addition to this lesson might be one on reverse image searches (to help identify "red flag" situations). 
 ---
 ## Basic Concepts
@@ -48,18 +48,18 @@ Below are a few major concepts to help establish your own lessons covering onlin
   * Where and when you use your device
   * Websites you visit
   * Terms used when searching
-  * Non-sensitive personally identifiable information
+  * Non-sensitive, personally identifiable information
 * Shady individuals/groups also are looking to find something that can lead to a weakness in your protections.
   * Personally identifiable information
   * Device identifiable information 
     * Examples: Phone, Apple based OS
-    * Desktop, Windows based OS
+    * Desktop, Windows-based OS
 * Everyday individuals (friends and strangers) are also curious about what you do on the internet.
   * Your stance and opinion on any topic they are interested in.
 * Remember, anything that goes onto the internet is there permanently. Wayback Machine is a good example of an internet archive.
 #### 1.2. How they get it (Data collection).
 * Companies:
-  * Browser you use
+  * Browser that you use
   * Website cookies
   * Information submitted (logging in, filling out forms)
   * Social media (web crawlers)
@@ -81,13 +81,13 @@ Below are a few major concepts to help establish your own lessons covering onlin
 ### 2. How data can be used to identify someone.
 * This includes how seemingly benign information can be led back to a student or how a student can identify if someone is not who they say they are.
   * An exercise in sleuthing through social media makes for the best exercise to make students think about both of these aspects
-    * Make sure to heavily emphasize discretion and safety
-    * **Always** create the exercise rather than use live examples, a student may find something problematic without the whole story!
+    * Make sure to emphasize discretion and safety
+    * **Always** create the exercise rather than use live examples. A student may find something problematic without the whole story!
 * Sample exercise: company investigating possible candidates.
   * Should consist of 3-5 small documents/posts for students to review
   * “Candidate submits a small resume post”
   * Each candidate has a few publicly available posts that possibly contradict information in the resume post or show them to be in poor reputation (legal problems?)
-* Sample exercise: Half the story, all of the problems.
+* Sample exercise: Half the story, all the problems.
   * Students are told a story about a person sleuthing up someone else's past.
   * The sleuth uncovers information about the other person that makes them look bad.
   * The sleuth publishes a story about the other person.
