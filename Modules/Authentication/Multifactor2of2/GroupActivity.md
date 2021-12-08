@@ -7,7 +7,7 @@
 
 #### Preparation
 * Groups of 5 students
-* Groups of  5 envelopes with cards inside
+* Groups of 5 envelopes with cards inside
 
 #### Goal
 Students will roleplay using the "Something they know" and "Something they are" topics that were taught in the lesson. 
@@ -21,7 +21,7 @@ Have the students get into groups of five. Give 5 envelopes to each group. Insid
 
 To start the role play, the gatekeeper will say "I need to see ______ and ______ forms of authentication to get through the gate." The blanks are the two types of authentication that were provided in the envelope.
 
-Next a personnel will approach the gate and show the two types of authentication requested by the gatekeeper. 
+Next, a student with the personnel role will approach the gate and show the two types of authentication requested by the gatekeeper. 
 
 Then the Authenticator will check the color/symbols of the authentication that the personnel showed. If they are correct, the authenticator will say "Authentication Matched". If one does not match, they will say "_____ Matches but ______ does not". Else if neither matches they will say "Authentication Denied"
 
