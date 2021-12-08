@@ -1,8 +1,8 @@
 ## Forward
-Keeping children safe online is difficult with the ever changing online environment.
+Keeping children safe online is difficult with the ever-changing online environment.
 The good news is there are a number of concepts that continue to be excellent baselines to keep them safe online.
 The purpose of this module is not to give a single, all-encompassing lesson, but instead give directions to existing lessons.
-These lessons focus on a different aspect of difficulties that children face online.
+These lessons focus on different aspects of difficulties that children face online.
 It is recommended to either: 
 - Teach one or more linked modules as is.
 - Incorporate parts from the modules into your teaching style.
