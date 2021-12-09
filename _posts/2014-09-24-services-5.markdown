@@ -2,8 +2,8 @@
 layout: default
 img: Social-Media.jpg
 category: Services
-title: Social Media<br>Safety
+title: Online Safety
 description: |
-link: ../social-media
+link: ../online-safety
 ---
 With the increase in accessibility to the internet. Many people are taking their private lives onto the web.  Social Media can be a great way for friends and family to connect but it can also be a good way to let unwanted people in. In this module, you will find all the resources and knowledge to teach on this subject. Click here to access the Social-Media Safety Module. 
