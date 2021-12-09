@@ -1,9 +1,9 @@
 ---
 layout: default
-img: Malware.jpg
+img: cyberbullying.png
 category: Services
 title: Cyber Bullying
 description: |
-link: ../malware-modules/malware
+link: ../cyberbullying
 ---
 Malware is a constant threat to any system. Proper procedures and proper knowledge can help against this threat. This module has all the information and resources needed. Click here to access it.  
