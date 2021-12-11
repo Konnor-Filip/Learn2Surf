@@ -6,4 +6,4 @@ title: Cyber Bullying
 description: |
 link: ../cyberbullying
 ---
-Malware is a constant threat to any system. Proper procedures and proper knowledge can help against this threat. This module has all the information and resources needed. Click here to access it.  
+Bullying can be a damaging experience for many individuals, and it can even happen online. This form of Bullying is called Cyberbullying. In this Module, you will learn the fundamentals of Cyberbullying as well as forms of prevention and remediation. Click Learn More to access it.  
