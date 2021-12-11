@@ -2,8 +2,8 @@
 layout: default
 img: multi-factor.png
 category: Services
-title: Multifactor Authentication
+title: Multi-factor Authentication
 description: |
 link: ../auth-modules/multifactor-auth/
 ---
-This module has the resources needed for the fundamentals of Multi-factor authentication. Passwords are sometimes not enough, as malicious actors are constantly coming with different forms of attacks. A good way to prevent harm to an account is to have multifactor authentication. Click here for the information and resources of this module.
+This module has the resources needed for the fundamentals of Multi-factor authentication. Passwords are sometimes not enough, as malicious actors are constantly coming with different forms of attacks. A good way to prevent harm to an account is to have multi-factor authentication. Click here for the information and resources of this module.
