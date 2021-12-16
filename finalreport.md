@@ -109,24 +109,24 @@ We started off by outlining our overall focus and the courses we wanted to devel
    * Web development: Konnor and Octavio.
 ### Milestone 2:
 We continued to progress on our content and website development. <br>
-Content:
+#### Content:
 * We refined our course goals after further research into the various topics.
 * The goals now consisted of three main subjects with two underlying lessons in each.
    * Authentication: Passwords and Multifactor Authentication (Complete).
    * Social Media Safety: Cyberbullying and Web Privacy.
    * Prevention: Malware and Phishing.
-* We further refined what each lesson should contain (Teacher script, powerpoint, activities)
-Website:
+* We further refined what each lesson should contain (Teacher script, powerpoint, activities).
+#### Website:
 * Layout of the website was created with github.
 * Basic links to the associated content pages were implemented.
 ### Milestone 3:
 We were able to get direct feedback from an active middle school teacher for our content and website.  <br>
 This helped to focus our final designs of the content and the website. <br>
-Content:
+#### Content:
 * Cyberbullying and Web Privacy lessons deviated by providing links to many different lessons created by professional organizations. Each was given short descriptions and estimated durations for ease of selection.
 * Malware and Phishing were created in our traditional approach. (Teacher script, powerpoint, activities).
-* All six lessons were provided with a short “Basic Principles” to give teachers a 5-10 minute lesson to go over with students. These principles also are able to serve as a foundation for creating their own lesson plans.
-Website:
+* All six lessons were provided with a short “Basic Principles” to give teachers a 5-10 minute lesson to go over with students. These principles also are able to serve as a foundation for creating their own lesson plans. <br>
+#### Website:
 * Layout was streamlined. 
    * Each lesson had a quick introduction to allow the teacher to understand the module quickly.
    * The pages display the lesson for quick use.
