@@ -15,7 +15,7 @@ The goals of this project are simple in design but something we feel important. 
     * [Prevention](#Prevention)
       * Phishing
       * Malware 
-    * [Social Media Safety](#social-media-safety)
+    * [Online Safety](#online-safety)
       * Cyberbullying
       * Online Privacy 
 
@@ -44,7 +44,7 @@ During our research we discovered 3 topics that we planned to expand on with ind
 2. [Prevention](#Prevention)
       * Phishing
       * Malware 
-2. [Social Media Safety](#social-media-safety)
+2. [Online Safety](#online-safety)
       * Cyberbullying
       * Online Privacy 
 
@@ -87,7 +87,7 @@ By completing this course students can be expected to be able to:
 * <strong>Implement</strong> strategies to prevent themselves from becoming a target of malware. 
 * <strong>Understand</strong> the purpose of anti-virus software.
 
-## Social Media Safety 
+## Online Safety 
 A note on this section, resources that were available for these two modules were vast. It was decided to not create entirely new modules but list key concepts and to be an aggregated resource for teachers on these topics. 
 ### Cyberbullying Learning Objectives.
 * ***Identifying*** what (cyber)bullying looks like.
