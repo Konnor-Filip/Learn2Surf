@@ -1,52 +1,24 @@
 # Learn2Surf
-
-## Table of Contents
-
-* [Executive Summary](#executive-summary)
-* [Project Timeline](#project-timeline)
-* [Risk Analysis](#risk-analysis)
-* [Project Methodology](#project-methodology)
-* [Resources Needed](#resources-needed)
-* [Project Management Organization](#project-management-organization)
-
 ## Executive Summary
 Cybersecurity is crucial to the field of information technology. It applies to every aspect of computing especially when it comes to the internet. Due to how susceptible kids are to threats on the internet, making students aware of these threats and how they can protect themselves online is the goal of this project. Learn2Surf aims to teach kids about phishing, social media safety, malware, two factor authentication, and password safety. Internet safety and etiquette, are an important part of cybersecurity. By teaching children how to be safe online, we can decrease the number of malicious events that transpire and make the internet a safer place to surf.
 
-### Goals & Objectives
-* Teach Kids about internet safety
-* Inform Students about the following topics
-    * [Phishing](#phishing)
-    * [Malware](#malware)
+## Project Goals
+The goals of this project are simple in design but something we feel important. This project has three main goals:
+1. Teach kids about how to stay safe online. 
+2. To teach students about the topics listed below.
+3. To spark excitement and interest in the field of cyber security. 
+* We wish to Inform Students about the following topics
     * [Authentication](#authentication)
-    * [Social Media Safety](#social-media-safety)
-        
-## Project Timeline
-This project will consist of two major sprints and two small sprints. The project will kick off with a small 2 week sprint for researching styles of course structure to ensure the best learning experience and engagement from students in the middle school grade range (6-8). We will use this information to develop a structure that we will use to inform our development of our course topics. This is estimated to take one to two weeks. Four major topics will be covered, with 2 topics being covered per 5 week sprint. 
+      * Password Safety
+      * Mutlifactor Authentication
+    * [Prevention](#Prevention)
+      * Phishing
+      * Malware 
+    * [Online Safety](#online-safety)
+      * Cyberbullying
+      * Online Privacy 
 
-|Task Name  | Time Slot | Estimated Time to Complete | Estimated Delivery Date |
-|-------------------|---------|---------------------------|---------------------------|
-|Research and Framework Development| Weeks 4 - 6 | 2 Weeks | September 29th, 2021 |
-|Github Page Skeleton Development| Weeks 4 - 6 | 2 Weeks | September 29th, 2021 |
-|Authentication Course Development| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
-|Social Media Safety Course Development| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
-|Github Page Updates| Weeks 6 - 11 | 5 Weeks | November 3rd, 2021 |
-|Phishing Safety Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
-|Malware Course Development| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
-|Github Page Updates| Weeks 11 - 16 | 5 Weeks | November 24th, 2021 |
-|Project Review and Deployment| Weeks 16 - 18 | 1 - 2 Weeks | December 17th, 2021|
-
-## Risk Analysis
-|Risk name  | Impact     | Likelihood | Description | Action Plan |
-|-----------|------------|------------|-------------| -------------|
-|Unfamiliar with teaching (90) | 10 | 9 | Our group has not been to school for teaching. We do not have experience with creating a curriculum or teaching a class.  | Mitigate |
-|Project Scope (56) | 8 | 7 | We are ambitious with what we would like to accomplish this semester. We have five modules we would like to implement but no idea how long it will take to create each one.   | Monitor |
-|Communication with Stakeholders (40) | 8 | 5 | We will not have direct contact with the stakeholders of our project. This may make it difficult to make sure we are on track with what would be expected in a classroom.   | Accept |
-|Technology Knowledge (36) | 6 | 6 | Most of the group has not worked on Github before. We have to learn how to use Pages, Wikis, the markdown language and more in order to complete our project. If we choose to use outside resources there may be a learning curve there.  | Mitigate |
-|Teammate Availability (30) | 6 | 5 | Our team works very different schedules. We also have to attend classes meaning that meeting up outside of class time can be difficult.  | Accept |
-
-
-## Project Methodology 
-
+## Project Methodology
 We understand that our project, Learn2Surf, is neither the first or last in a long line of instructional modules. To ensure we create a product that has meaning amongst the we will focus on a few specific guidelines:
 1. **Focused age group.** We want the target audience to be American middle school aged children, specifically 10 to 14 years of age. We predict this age group would be the earliest to not only retain the information presented, but also apply and understand the “why” of the lessons learned.
 2. **Learn from the past.** Others have created lessons on this subject; our goal is to take the successes and failures of the past instructions and apply them to our lessons. Additionally, the reason for the creation of our lessons is due to the rapid changes that occur in technology compared to many other subjects. Lessons must be re-evaluated more frequently to keep pace with cultural changes.
@@ -56,123 +28,115 @@ We understand that our project, Learn2Surf, is neither the first or last in a lo
 To help us better measure effectiveness of the modules, we plan to follow the framework as outlined by
 [Montclair State University](https://www.montclair.edu/information-technology/teaching-essentials/learning-objectives)
 
-Our plan for the project is to begin with research into different teaching methods, the goal of this is to find a method that students in the 6 to 8 grade level will find engaging and allow them to absorb the material.
+After research we landed upon the middle school level to build our modules, being the 6th to 8th grade range. We tailored each of the modules to be understanble and digestable to students in that age range. 
 
-We plan to search through different teaching styles and learning experiences that will best fit the needs of the project. From this research our intent is to create a basic framework for our course that will be adaptable to each of the different course modules. Our intent is to develop Github pages to host our modules so they are easily accessible and can be changed to fit the teachers needs.
+We searched through different teaching styles and learning experiences to find those that best fit the needs of our project. From this research our we created a basic framework for our courses that we used to adapt to each of the different course modules. We developed a website that is host using GitHub pages so we can present the content in it's best light to teachers. We started designing each lesson through a PowerPoint first mentality designing each lesson to flow well and to be interesting for students to interact with and not overwhelmed by the amount of information on screen. From here we developed teachers guides that allows teachers who maybe be inexperienced with one of the given topics. Worksheets and acivity guides are also available through the website, our GitHub pages and a Google Drive. 
 
-We will begin our first large sprint with the intention of splitting into two teams for the duration of the 5 week sprint. The goal with the start of each sprint will be to research each topic to ensure that all important details for each course are included, flushed out and taught in an easy to digestible way. After the research of the course topic has been completed we will move on to using the framework that was developed in week one to begin creating our curriculum for the course. Once the curriculum is finished we will develop a detailed plan with lesson plans that teachers will be able to follow along to teach students. For each step in this process of creating the total topic we will contact our project stakeholders and Dr Hale to gain feedback to ensure the content is valuable. After the content is approved the Github pages site will be updated with each course's relevant material.
+We will began our first large sprint with the intention of splitting into two teams for the duration of the 5 week sprint. The goal with the start of each sprint was to research each topic to ensure that all important details for each course are included, flushed out and taught in an easy to digestible way. After the research of the course topic has been completed we moved on to using the framework that was developed in week one to began creating our curriculum for the course. Once the curriculum was finished we  developed a detailed plan with lesson plans that teachers will be able to follow along to teach students. For each step in this process of creating the total topic we stayed in contact with Dr Hale to gain feedback to ensure the content is valuable. After the content was approved the Github pages site was updated with each course's relevant material.
 
-The final two weeks of our project we plan to run back through the modules and correct any mistakes, then coordinate with Dr. Hale and our Stakeholders to ensure that the content is sound and ready to be released.
+The final two weeks of our project were used to correct any mistakes and then coordinate with Dr. Hale and our Stakeholders to ensure that the content was sound and ready to be released.
 
-We have already roughly identified the description of the course from there we have five course goals to focus on in order of priority.
-1. Authentication
-2. Social media safety
-3. Phishing
-4. Malware
+During our research we discovered 3 topics that we planned to expand on with individual modules, these topics include: 
+1. [Authentication](#authentication)
+      * Password Safety
+      * Mutlifactor Authentication
+2. [Prevention](#Prevention)
+      * Phishing
+      * Malware 
+2. [Online Safety](#online-safety)
+      * Cyberbullying
+      * Online Privacy 
 
-From here we have further identified some possible learning objectives and associated activities that will follow each of the four guidelines. Each of them will be refined further during the research and template development point in our project timeline.
+From here our team have further identified learning objectives and associated activities that will follow each of the four guidelines. 
 
-### Authentication
-1. **Identify and describe various methods of authentication**
-* Learning Objective
-  * Students are able to describe the types of authentication methods that are most commonly used.
-  * Students are able to implement the correct level of protection for various types of accounts and devices.
-  * Students are able to differentiate the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
-* Assignment
-  * (WIP) Describe a few types of multi-factor authentication and some of the systems that currently use them. Encourage students to give examples they have encountered themselves.
-  * (TBA) Apply level exercise
-  * (TBA) Analyze level exercise
-    
-2. **Teach students how to create a strong and memorable password.**
-* Learning Objective
-  * Students are able to construct a strong password.
-* Assignment
-  * Students will make a fake password. This password will pass the "How strong is my password" checker with at least 100 year time to break.
-* Learning Objective
-    * Students are able to memorize their passwords for different websites.
-* Assignment
-  * Students can log in to a new account after 1 day, 1 week, and 1 month of creating the password.
-3. **Teach students ways to keep their passwords secure**
-* Learning Objective
-  * Students will be able to recognize a social engineering attempt to gain password information.
-* Assignments  
-  * In a role-play scenario the student is talking with a friend. The student will identify whether the friend is trying to gain their password or not.
-  * A student will be given different Facebook posts. The student will be able to correctly identify if it is a social engineering password post.
-* Learning Objectives
-  * Students will be able to explain why recording passwords reduces their effectiveness, why password reuse can create problems, and why password sharing can be dangerous.
-* Assignment
-  * In an exercise, demonstrate how quickly an acquaintance is able to access and cause problems with easily found/shared/reused passwords. 
+## Authentication
+### Password Safety Learning Objectives: 
+Completeing this course students should be expected to:
+* ***Understand*** the rationale behind the most common password attacks and how they can compromise a password. 
+* ***Differentiate*** between good and bad passwords with regard to the most common password attacks. 
+* ***Construct*** passwords that are both memorable and secure against the most common password attacks.
+* ***Create*** memorization techniques that will allow the students to more easily remember secure passwords. 
+* ***Recognize*** a social engineering attempt to gain password information.
+* ***Recognize*** the different aspects of password safety.
+    * ***Explain*** why recording passwords reduces their effectiveness 
+    * ***Explain*** why password reuse can create problems. 
+    * ***Explain*** why password sharing can be dangerous.
+  
+### Multifactor Authentication Learning Objectives:
+Completeing this course students should be expected to:
+* ***Differentiate*** between the five different factors of authentication. 
+* ***Describe*** the types of authentication methods that are most commonly used.
+* ***Implement*** the correct level of protection for various types of accounts and devices.
+* ***Differentiate*** the positives and negatives of using single-factor authentication vs a multi-factor authentication method.
 
-### Social Media Safety
-1. **To Teach students what information to avoid sharing online**
-* Learning Objective
-    * Students will be able to judge what information is acceptable to post online.
-* Assignment
-    * TBA
+## Prevention
+### Phishing Learning Objectives
+Completeing this course students should be expected to:
+* ***Identify*** features of a phishing attempt in an email/text-message.
+* ***Differentiate*** between legitimate communications and phishing attempts.
+* ***Understand*** execute the steps necessary to report and delete phishing attempts.
 
-2. **To Teach students learn what Cyberstalking is**
-* Learning Objectives
-    * Students will be able to correctly distiguish Cyberstalking
-    * Students will be able to correctly report instances of Cyberstalking
-* Assignments
-    * TBA
+### Malware Learning Objectives
+By completing this course students can be expected to be able to: 
+* <strong>Understand</strong> what malware and computer viruses are. 
+* <strong>Differentiate</strong> the differences between a virus and malware.
+* <strong>Understand</strong> the effects that malware and computer viruses have on computers. 
+* <strong>Explain</strong> the personal consequences of becoming infected by a malware or virus. 
+* <strong>Identify</strong> certain types of malware and their dangers. 
+* <strong>Implement</strong> strategies to prevent themselves from becoming a target of malware. 
+* <strong>Understand</strong> the purpose of anti-virus software.
 
-3. **To Teach students learn what Cyberbullying is**
-* Learning Objective
-    * Students will be able correctly distiguish Cyberbullying
-    * Students will be able to execute the steps to report Cyberbullying
-* Assignments
-    * TBA
+## Online Safety 
+A note on this section, resources that were available for these two modules were vast. It was decided to not create entirely new modules but list key concepts and to be an aggregated resource for teachers on these topics. 
+### Cyberbullying Learning Objectives.
+* ***Identifying*** what (cyber)bullying looks like.
+* ***Learn*** how to discourage and/or stop others from bullying “you”.
+* ***Learn*** how to de-escalate if you’ve identified that you have been bullying others.
 
-4. **To Teach students about Privacy options on Social Media**
-* Learning Objective
-    * Students will be able to impliment settings that will increase privacy.
-* Assignment
-    * Students will be tasked with navigating a social media app to enable privacy settings on their account or a fake one.
+### Online Privacy Learning Objectives
+* ***Understand*** what data can be tracked, how it is collected, and how it can be used.
+* ***Know*** how data can be used to identify someone.
 
 
-### Phishing
-1. **Increase awareness as to what phishing is.**
-* Learning Objective
-    * Students are able to consistenty differentiate between legitimate communications and phishing attempts
-* Assignment
-    * Students will be given a set of communications. These could be emails, texts, or other various communications. Given these communications, students will be tasked with differentiating between a legitimate communication and a phishing attempt.
-* Assessment
-    * Students are able to correctly determine x/y attempts. Exact numbers TBA.
-2. **Instruct students as to how they should handle phishing attempts**
-* Learning Objective
-    * Students are able to execute the steps nessesary to report and delete phishing attempts
-* Assignment
-    * TBA
-* Assessment
-    * TBA
+## Results / Findings
+### Milestone 1:
+We started off by outlining our overall focus and the courses we wanted to develop. <br>
+* Focus on modular lessons, Middle school age group, and attempting to avoid pure lecture in favor of class interaction.
+* We started with five course goals: Password safety, Social media safety, Phishing, Malware, Multi-factor authentication.
+* The groups were split into a content creation team and a web development team.
+   * Content creation: Adam, CJ, and Daniel.
+   * Web development: Konnor and Octavio.
+### Milestone 2:
+We continued to progress on our content and website development. <br>
+#### Content:
+* We refined our course goals after further research into the various topics.
+* The goals now consisted of three main subjects with two underlying lessons in each.
+   * Authentication: Passwords and Multifactor Authentication (Complete).
+   * Social Media Safety: Cyberbullying and Web Privacy.
+   * Prevention: Malware and Phishing.
+* We further refined what each lesson should contain (Teacher script, powerpoint, activities).
+#### Website:
+* Layout of the website was created with github.
+* Basic links to the associated content pages were implemented.
+### Milestone 3:
+We were able to get direct feedback from an active middle school teacher for our content and website.  <br>
+This helped to focus our final designs of the content and the website. <br>
+#### Content:
+* Cyberbullying and Web Privacy lessons deviated by providing links to many different lessons created by professional organizations. Each was given short descriptions and estimated durations for ease of selection.
+* Malware and Phishing were created in our traditional approach. (Teacher script, powerpoint, activities).
+* All six lessons were provided with a short “Basic Principles” to give teachers a 5-10 minute lesson to go over with students. These principles also are able to serve as a foundation for creating their own lesson plans. <br>
+#### Website:
+* Layout was streamlined. 
+   * Each lesson had a quick introduction to allow the teacher to understand the module quickly.
+   * The pages display the lesson for quick use.
+* A google account was created and filled with all necessary resources.
+   * Each lesson page also has a quick link to its associated resources for convenience. 
 
-### Malware
-1. **Identfy different types of malware.**
-* Learning Objective
-    * Students are able to differentiate between the different types of malware.
-* Assignment
-    * To test the students level of understanding, students will be given a matching worksheet where's the match the description with the type of malware.
-2. **Develop methods to avoid becoming a victim of malware.**
-* Learning Objective
-    * Students are able to identify malware and are able to combat them.
-* Assignment
-    * TBA
 
-## Resources Needed 
-
-|Resource  | Dr. Hale needed? | Investigating Team member | Description |
-|-------------------|---------|---------------------------|-------------|
-|Malware matching worksheet | NO | Daniel |A worksheet in which students can test their knowledge on the different types of malware.|
-|Phishing email | NO | Octavio |A fake phishing email used to teach students what to look for.|
-|Phishing tools | NO | Octavio |Teaching tools on phishing that we can use as a reference. |
-|Online safety and Privacy Page | NO | Daniel |Page on online safety and privacy that we can use as a reference.|
-|Youtube video on MF authentication | NO | Daniel |Youtube video explaining MF authentication.  |
-|Password strength testing website | NO | Octavio |A website that test the strength of a password.
-|Intructor provided examples | NO | Daniel |Examples provided by the instructor in the form of a website.|
-|Professional instruction and direction | YES | Octavio |Dr.Hale and the instructors connected to him, help us test our curriculum and give us advice on how to improve it.|
-
-## Project Management Organization
-
-Github Project Board Link: https://github.com/Konnor-Filip/Learn2Surf/projects/1
+## Getting started
+Working with any of our modules is easy to do.
+1. Navigate to the module that you want to work with.
+2. Read through the Learning Objectives and/or Basic Concepts section to confirm it is something you wish to use
+3. Grab the resources from the Google Docs page associated with that lesson (located on the right side of the page)
+* Make sure to pick which parts fit best with your students! Not all documents are required, but they are recommended for teaching the lesson.
 
